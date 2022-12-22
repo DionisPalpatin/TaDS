@@ -13,4 +13,4 @@ add_executable(app.exe
 
         inc/input_output.h
         inc/constants.h
-        inc/errors.h inc/structs.h)
+        inc/errors.h inc/structs.h src/validation.c inc/validation.h src/long_math.c inc/long_math.h)

@@ -1,0 +1,417 @@
+Theater:Drury Lane Theatre
+Performance:Sunset Boulevard
+Producer:Nery Bombino
+Minimum price:3466
+Maximum price:27218
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:play
+Theater:Pasadena Playhouse
+Performance:South Pacific
+Producer:Kathey Vosquez
+Minimum price:9495
+Maximum price:22778
+Type:adult
+Genre:drama
+Theater:Gate Theatre
+Performance:Patience
+Producer:Sharilyn Bartimus
+Minimum price:89
+Maximum price:17167
+Type:adult
+Genre:play
+Theater:Mariinsky Theatre
+Performance:Curtains
+Producer:Leonora Kallenberg
+Minimum price:2952
+Maximum price:20203
+Type:adult
+Genre:play
+Theater:Royal Opera House
+Performance:Swing
+Producer:Tien Harviston
+Minimum price:2708
+Maximum price:35078
+Type:child
+Minimum age:3
+Maximum age:5
+Genre:fairy tale
+Theater:South Bank
+Performance:Side Show
+Producer:Noella Derck
+Minimum price:9835
+Maximum price:29499
+Type:musical
+Composer:William Mathias
+Country:Mauritius
+Minimum age:0
+Duration:171
+Theater:Royal Opera House
+Performance:Inherit the Wind
+Producer:Esmeralda Loosle
+Minimum price:1974
+Maximum price:40247
+Type:adult
+Genre:play
+Theater:Kamerny Theatre
+Performance:American Idiot
+Producer:Marlys Mayorca
+Minimum price:1636
+Maximum price:37906
+Type:adult
+Genre:drama
+Theater:Abbey Theatre
+Performance:Color Purple, The
+Producer:Tommye Guagenti
+Minimum price:3647
+Maximum price:15611
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:play
+Theater:Schouwburg
+Performance:Wild Party
+Producer:Angelyn Liceaga
+Minimum price:8825
+Maximum price:47722
+Type:adult
+Genre:comedy
+Theater:Royal Opera House
+Performance:A Class Act
+Producer:Lou Furner
+Minimum price:9973
+Maximum price:33368
+Type:child
+Minimum age:0
+Maximum age:6
+Genre:play
+Theater:Curtain Theatre
+Performance:Closer Than Ever
+Producer:Veola Sakowski
+Minimum price:8268
+Maximum price:13690
+Type:adult
+Genre:play
+Theater:Red Bull Theatre
+Performance:Fela!
+Producer:Susann Matulewicz
+Minimum price:1617
+Maximum price:43274
+Type:musical
+Composer:Nicholas Maw
+Country:Côte d'Ivoire
+Minimum age:0
+Duration:132
+Theater:Whitefriars Theatre
+Performance:Fiddler on the Roof
+Producer:Elias Sura
+Minimum price:9306
+Maximum price:17817
+Type:musical
+Composer:Dag Ivar Wiren
+Country:Senegal
+Minimum age:4
+Duration:144
+Theater:Gate Theatre
+Performance:War Paint
+Producer:Diann Beiter
+Minimum price:505
+Maximum price:27223
+Type:musical
+Composer:Leonard Bernstein
+Country:Bolivia
+Minimum age:5
+Duration:185
+Theater:Teatro Farnese
+Performance:Legally Blonde
+Producer:Dominique Stotesbury
+Minimum price:3056
+Maximum price:36673
+Type:musical
+Composer:Werner Wolf Glaser
+Country:Macao
+Minimum age:4
+Duration:100
+Theater:Lyceum Theatre
+Performance:American Idiot
+Producer:Amber Chegwidden
+Minimum price:8668
+Maximum price:25053
+Type:adult
+Genre:drama
+Theater:Palace of Fine Arts
+Performance:Triumph of Love
+Producer:Lelia Couret
+Minimum price:9011
+Maximum price:27212
+Type:musical
+Composer:Milan Kymlicka
+Country:Hungary
+Minimum age:4
+Duration:151
+Theater:Lyceum Theatre
+Performance:Bare
+Producer:Alene Kelly
+Minimum price:4784
+Maximum price:20817
+Type:child
+Minimum age:0
+Maximum age:5
+Genre:fairy tale
+Theater:Apollo Theater
+Performance:Copacabana
+Producer:Stacee Ruddy
+Minimum price:21
+Maximum price:37852
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:play
+Theater:Globe Theatre
+Performance:Gigi
+Producer:Anastacia Sanderson
+Minimum price:756
+Maximum price:28299
+Type:musical
+Composer:Paul Constantinescu
+Country:Belgium
+Minimum age:0
+Duration:109
+Theater:Vienna State Opera
+Performance:The Greatest Showman
+Producer:Ariel Haislett
+Minimum price:1169
+Maximum price:15876
+Type:adult
+Genre:comedy
+Theater:Lyceum Theatre
+Performance:Grease
+Producer:Abigail Bielik
+Minimum price:592
+Maximum price:28541
+Type:child
+Minimum age:1
+Maximum age:7
+Genre:fairy tale
+Theater:Sydney Opera House
+Performance:Zorba
+Producer:Brooke Matya
+Minimum price:3610
+Maximum price:49330
+Type:adult
+Genre:comedy
+Theater:Palace of Fine Arts
+Performance:Cabaret
+Producer:Onie Restuccia
+Minimum price:7264
+Maximum price:24239
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:fairy tale
+Theater:South Bank
+Performance:Nine
+Producer:Jaunita Glathar
+Minimum price:4623
+Maximum price:33045
+Type:adult
+Genre:play
+Theater:Swan Theatre
+Performance:Jelly's Last Jam
+Producer:Dahlia Nicolosi
+Minimum price:385
+Maximum price:23632
+Type:musical
+Composer:Hugo Distler
+Country:Estonia
+Minimum age:5
+Duration:168
+Theater:Apollo Theater
+Performance:Six
+Producer:Ray Correro
+Minimum price:9433
+Maximum price:31476
+Type:adult
+Genre:drama
+Theater:Red Bull Theatre
+Performance:Tick Tick Boom
+Producer:Barrie Mcmilliam
+Minimum price:3781
+Maximum price:45437
+Type:adult
+Genre:comedy
+Theater:Red Bull Theatre
+Performance:Milk and Honey
+Producer:Hermine Eskra
+Minimum price:4212
+Maximum price:31958
+Type:musical
+Composer:William Mathias
+Country:Equatorial Guinea
+Minimum age:2
+Duration:169
+Theater:Drury Lane Theatre
+Performance:Angels in America
+Producer:Elwanda Fullenwider
+Minimum price:8620
+Maximum price:26653
+Type:adult
+Genre:comedy
+Theater:Moscow Art Theatre
+Performance:Singin' in the Rain
+Producer:Nidia Konzal
+Minimum price:4066
+Maximum price:47491
+Type:adult
+Genre:play
+Theater:Sydney Opera House
+Performance:Cyrano
+Producer:Chin Mcbath
+Minimum price:9642
+Maximum price:42543
+Type:child
+Minimum age:1
+Maximum age:7
+Genre:play
+Theater:Drury Lane Theatre
+Performance:Damn Yankees
+Producer:Suzanna Ballester
+Minimum price:4319
+Maximum price:17302
+Type:musical
+Composer:Roger Nixon
+Country:Colombia
+Minimum age:2
+Duration:159
+Theater:Theatre of Dionysus
+Performance:Gotta Dance
+Producer:Lita Geisinsky
+Minimum price:9648
+Maximum price:26206
+Type:musical
+Composer:Joaquín Rodrigo
+Country:Peru
+Minimum age:2
+Duration:151
+Theater:Whitefriars Theatre
+Performance:Ain't Too Proud
+Producer:Isabel Sullins
+Minimum price:9841
+Maximum price:30097
+Type:child
+Minimum age:3
+Maximum age:4
+Genre:play
+Theater:Curtain Theatre
+Performance:Dracula
+Producer:Tennie Doom
+Minimum price:9380
+Maximum price:29831
+Type:adult
+Genre:drama
+Theater:Swan Theatre
+Performance:Hands on a Hardbody
+Producer:Dennise Styer
+Minimum price:5534
+Maximum price:32958
+Type:musical
+Composer:Edmund Rubbra
+Country:Dominica
+Minimum age:5
+Duration:114
+Theater:Theatre of Dionysus
+Performance:Assassins
+Producer:Shirleen Drabant
+Minimum price:7145
+Maximum price:43398
+Type:adult
+Genre:drama
+Theater:Kamerny Theatre
+Performance:Oh, Kay!
+Producer:Josefa Venskoske
+Minimum price:7689
+Maximum price:16203
+Type:adult
+Genre:play
+Theater:Red Bull Theatre
+Performance:Half a Sixpence
+Producer:Mariam Nwachukwu
+Minimum price:3247
+Maximum price:30444
+Type:adult
+Genre:drama
+Theater:Schouwburg
+Performance:Calamity Jane
+Producer:Stephane Mcmanamy
+Minimum price:5145
+Maximum price:29045
+Type:adult
+Genre:play
+Theater:Boar’s Head Inn
+Performance:Meet Me in St. Louis
+Producer:Annika Matrey
+Minimum price:6233
+Maximum price:47208
+Type:child
+Minimum age:1
+Maximum age:4
+Genre:fairy tale
+Theater:Old Vic
+Performance:Bandstand
+Producer:Danny Routon
+Minimum price:5775
+Maximum price:28489
+Type:adult
+Genre:drama
+Theater:Theatre of Dionysus
+Performance:Hands on a Hardbody
+Producer:Lesha Hanway
+Minimum price:8153
+Maximum price:31462
+Type:musical
+Composer:Olivier Messiaen
+Country:China
+Minimum age:5
+Duration:103
+Theater:La Scala
+Performance:Me and My Girl
+Producer:Lora Tankard
+Minimum price:9726
+Maximum price:43952
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:play
+Theater:Moscow Art Theatre
+Performance:Sleep No More
+Producer:Felicidad Hesley
+Minimum price:4855
+Maximum price:36579
+Type:child
+Minimum age:3
+Maximum age:4
+Genre:fairy tale
+Theater:The Theatre
+Performance:Cabaret
+Producer:Hermelinda Lugardo
+Minimum price:339
+Maximum price:25697
+Type:adult
+Genre:comedy
+Theater:Whitefriars Theatre
+Performance:Follies
+Producer:Bea Luoto
+Minimum price:5731
+Maximum price:12266
+Type:adult
+Genre:comedy
+Theater:Globe Theatre
+Performance:Me and My Girl
+Producer:Lashunda Darakjian
+Minimum price:375
+Maximum price:18198
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:fairy tale

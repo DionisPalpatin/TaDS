@@ -11,8 +11,9 @@
 
 void write_num_to_struct(const char *num_str, num_t *num);
 
-int get_num(num_t *num, prog_state_t *prog_state);
+size_t dot_shift(const char *num_str);
 
-bool validate_num(num_t *number);
+int get_num(num_t *num, prog_state_t *prog_state);
+int read_number(char *num);
 
 #endif

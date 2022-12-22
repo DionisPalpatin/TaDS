@@ -1,0 +1,4343 @@
+Theater:Fortune Theatre
+Performance:Leap of Faith
+Producer:Rosamond Fairhurst
+Minimum price:7210
+Maximum price:43029
+Type:musical
+Composer:Bernard Stevens
+Country:Jordan
+Minimum age:5
+Duration:136
+Theater:Lyceum Theatre
+Performance:Gypsy
+Producer:Mathew Alyea
+Minimum price:2464
+Maximum price:42435
+Type:musical
+Composer:Arvo Part
+Country:Channel Islands
+Minimum age:5
+Duration:140
+Theater:Schouwburg
+Performance:Shout!
+Producer:Zenia Highers
+Minimum price:3140
+Maximum price:44118
+Type:child
+Minimum age:1
+Maximum age:7
+Genre:fairy tale
+Theater:Apollo Theater
+Performance:Timeless
+Producer:Dionna Sisco
+Minimum price:3459
+Maximum price:47765
+Type:adult
+Genre:play
+Theater:Kamerny Theatre
+Performance:Children of Eden
+Producer:Celesta Glanville
+Minimum price:3949
+Maximum price:24542
+Type:musical
+Composer:Eugene Bozza
+Country:Mayotte
+Minimum age:3
+Duration:146
+Theater:Whitefriars Theatre
+Performance:Anything Goes
+Producer:Jeff Cummings
+Minimum price:7239
+Maximum price:14204
+Type:adult
+Genre:comedy
+Theater:Boar’s Head Inn
+Performance:Flower Drum Song
+Producer:Laticia Higginson
+Minimum price:4772
+Maximum price:32014
+Type:adult
+Genre:play
+Theater:The Cockpit
+Performance:Annie Get Your Gun
+Producer:Beulah Jeffirs
+Minimum price:1952
+Maximum price:37009
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:fairy tale
+Theater:Pasadena Playhouse
+Performance:A Thurber Carnival
+Producer:Eleonora Peruzzi
+Minimum price:3627
+Maximum price:32077
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:fairy tale
+Theater:Curtain Theatre
+Performance:Pippin
+Producer:Santina Waldridge
+Minimum price:7990
+Maximum price:25241
+Type:musical
+Composer:Emil Tabakov
+Country:Indonesia
+Minimum age:2
+Duration:178
+Theater:Moscow Art Theatre
+Performance:Dreamgirls
+Producer:Ciera Rheome
+Minimum price:5539
+Maximum price:31789
+Type:musical
+Composer:Benjamin Frankel
+Country:Suriname
+Minimum age:0
+Duration:132
+Theater:Vienna State Opera
+Performance:Hamilton (musical)
+Producer:Ludie Callister
+Minimum price:3316
+Maximum price:12433
+Type:adult
+Genre:comedy
+Theater:South Bank
+Performance:Scrooge
+Producer:Leopoldo Bumpaus
+Minimum price:1384
+Maximum price:22734
+Type:adult
+Genre:play
+Theater:Moscow Art Theatre
+Performance:Sing Street
+Producer:Wan Cassagne
+Minimum price:6666
+Maximum price:25442
+Type:musical
+Composer:Harold Truscott
+Country:Timor-Leste
+Minimum age:3
+Duration:148
+Theater:Blackfriars Theatre
+Performance:Scarlet Pimpernel
+Producer:Lanora Liff
+Minimum price:3865
+Maximum price:22802
+Type:child
+Minimum age:3
+Maximum age:5
+Genre:fairy tale
+Theater:Old Vic
+Performance:Pal Joey
+Producer:Celinda Lemar
+Minimum price:6627
+Maximum price:44354
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:fairy tale
+Theater:Sydney Opera House
+Performance:Meet Me in St. Louis
+Producer:Rashida Mahaffey
+Minimum price:4081
+Maximum price:25788
+Type:child
+Minimum age:2
+Maximum age:5
+Genre:fairy tale
+Theater:Pasadena Playhouse
+Performance:Oliver!
+Producer:Margaretta Quandel
+Minimum price:7506
+Maximum price:46225
+Type:musical
+Composer:Andrew Lloyd Webber
+Country:Honduras
+Minimum age:1
+Duration:162
+Theater:Fortune Theatre
+Performance:Falsettos
+Producer:Audra Fiorenza
+Minimum price:928
+Maximum price:14561
+Type:adult
+Genre:comedy
+Theater:Rose Theatre
+Performance:Groundhog Day
+Producer:Kandace Nager
+Minimum price:5387
+Maximum price:43333
+Type:musical
+Composer:Matyas Seiber
+Country:Maldives
+Minimum age:3
+Duration:160
+Theater:Boar’s Head Inn
+Performance:Head Over Heels
+Producer:Rene Carrell
+Minimum price:8909
+Maximum price:41691
+Type:musical
+Composer:Alan Rawsthorne
+Country:Angola
+Minimum age:3
+Duration:168
+Theater:Old Vic
+Performance:Carrie
+Producer:Pansy Staudenmeier
+Minimum price:8326
+Maximum price:21027
+Type:adult
+Genre:drama
+Theater:Globe Theatre
+Performance:The Wizard of Oz
+Producer:Lindy Lashure
+Minimum price:2074
+Maximum price:44767
+Type:child
+Minimum age:0
+Maximum age:7
+Genre:fairy tale
+Theater:Schouwburg
+Performance:Jagged Little Pill
+Producer:Thalia Oven
+Minimum price:8805
+Maximum price:36160
+Type:adult
+Genre:drama
+Theater:La Scala
+Performance:Mean Girls
+Producer:Julene Sabot
+Minimum price:3887
+Maximum price:42885
+Type:adult
+Genre:drama
+Theater:La Scala
+Performance:Tarzan
+Producer:Maryann Guntrum
+Minimum price:6432
+Maximum price:37713
+Type:musical
+Composer:Paul Constantinescu
+Country:Bulgaria
+Minimum age:0
+Duration:117
+Theater:Drury Lane Theatre
+Performance:High Society
+Producer:Camelia Vanmetre
+Minimum price:8179
+Maximum price:12187
+Type:adult
+Genre:play
+Theater:Apollo Theater
+Performance:Crazy For You
+Producer:Gracie Goetzinger
+Minimum price:6709
+Maximum price:47284
+Type:child
+Minimum age:1
+Maximum age:7
+Genre:fairy tale
+Theater:Mariinsky Theatre
+Performance:A Strange Loop
+Producer:Linnie Nanka
+Minimum price:3591
+Maximum price:28354
+Type:musical
+Composer:Norman Dello Joio
+Country:Barbados
+Minimum age:3
+Duration:119
+Theater:Whitefriars Theatre
+Performance:Bugsy Malone
+Producer:Alexandria Balckburn
+Minimum price:6664
+Maximum price:21282
+Type:adult
+Genre:drama
+Theater:Fortune Theatre
+Performance:Xanadu
+Producer:Santiago Turvaville
+Minimum price:2539
+Maximum price:17154
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:play
+Theater:Lyceum Theatre
+Performance:School of Rock
+Producer:Shayna Sear
+Minimum price:3551
+Maximum price:21657
+Type:child
+Minimum age:1
+Maximum age:5
+Genre:play
+Theater:Rose Theatre
+Performance:Nine
+Producer:Sang Carosiello
+Minimum price:1308
+Maximum price:40126
+Type:musical
+Composer:Samuel Barber
+Country:Barbados
+Minimum age:0
+Duration:159
+Theater:Blackfriars Theatre
+Performance:Six
+Producer:Joannie Murtagh
+Minimum price:7162
+Maximum price:17470
+Type:adult
+Genre:comedy
+Theater:Hope Theatre
+Performance:Paint Your Wagon
+Producer:Jonathon Trachsel
+Minimum price:8967
+Maximum price:46839
+Type:adult
+Genre:comedy
+Theater:Moscow Art Theatre
+Performance:Cry-Baby
+Producer:Andrea Kinniburgh
+Minimum price:1999
+Maximum price:12765
+Type:musical
+Composer:Reinhard Febel
+Country:Tanzania
+Minimum age:0
+Duration:107
+Theater:Rose Theatre
+Performance:Hello, Dolly!
+Producer:Kym Amsinger
+Minimum price:6851
+Maximum price:41709
+Type:musical
+Composer:Emil Tabakov
+Country:Slovakia
+Minimum age:2
+Duration:111
+Theater:Pasadena Playhouse
+Performance:Les Miserables
+Producer:Janna Handelman
+Minimum price:6136
+Maximum price:43710
+Type:musical
+Composer:George Rochberg
+Country:Eritrea
+Minimum age:1
+Duration:107
+Theater:Mariinsky Theatre
+Performance:Blood Brothers
+Producer:Efrain Call
+Minimum price:7973
+Maximum price:11778
+Type:musical
+Composer:Vittorio Giannini
+Country:Kazakhstan
+Minimum age:1
+Duration:199
+Theater:Abbey Theatre
+Performance:Aspects of Love
+Producer:Kasey Szczepanik
+Minimum price:45
+Maximum price:19715
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:fairy tale
+Theater:Sydney Opera House
+Performance:Gigi
+Producer:Yasmine Fantz
+Minimum price:1381
+Maximum price:28409
+Type:adult
+Genre:play
+Theater:South Bank
+Performance:Tommy (The Who's)
+Producer:Arlette Ebbighausen
+Minimum price:2122
+Maximum price:13770
+Type:musical
+Composer:Sir Lennox Berkeley
+Country:Angola
+Minimum age:1
+Duration:116
+Theater:Royal Opera House
+Performance:The Music Man
+Producer:Jami Razo
+Minimum price:9844
+Maximum price:39402
+Type:adult
+Genre:comedy
+Theater:South Bank
+Performance:Cats
+Producer:Necole Wrzesinski
+Minimum price:1979
+Maximum price:11024
+Type:adult
+Genre:drama
+Theater:South Bank
+Performance:Jekyll and Hyde
+Producer:Marline Sinn
+Minimum price:2372
+Maximum price:39059
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:play
+Theater:Curtain Theatre
+Performance:Starlight Express
+Producer:Sung Toles
+Minimum price:8262
+Maximum price:42833
+Type:musical
+Composer:Robert Simpson
+Country:Andorra
+Minimum age:5
+Duration:106
+Theater:Gate Theatre
+Performance:Finian's Rainbow
+Producer:Daniele Cecchetti
+Minimum price:3770
+Maximum price:40245
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:fairy tale
+Theater:Mariinsky Theatre
+Performance:Mame
+Producer:Stefan Banning
+Minimum price:7827
+Maximum price:33874
+Type:musical
+Composer:Julius Chajes
+Country:Gabon
+Minimum age:2
+Duration:131
+Theater:Curtain Theatre
+Performance:Company
+Producer:Cinderella Durig
+Minimum price:6414
+Maximum price:47222
+Type:child
+Minimum age:3
+Maximum age:5
+Genre:fairy tale
+Theater:Royal Opera House
+Performance:Movin' Out
+Producer:Karri Colpack
+Minimum price:4930
+Maximum price:27225
+Type:musical
+Composer:Peter Lamb
+Country:Liberia
+Minimum age:4
+Duration:130
+Theater:La Scala
+Performance:The Crucible
+Producer:Robbyn Cobbs
+Minimum price:7606
+Maximum price:13183
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:fairy tale
+Theater:Schouwburg
+Performance:Big: The Musical
+Producer:Tonita Hollmann
+Minimum price:6936
+Maximum price:32712
+Type:musical
+Composer:Mircea Basarab
+Country:Luxembourg
+Minimum age:2
+Duration:141
+Theater:Apollo Theater
+Performance:All Shook Up
+Producer:Tomasa Worthan
+Minimum price:6969
+Maximum price:46788
+Type:child
+Minimum age:2
+Maximum age:4
+Genre:play
+Theater:Apollo Theater
+Performance:Once
+Producer:Cira Frishman
+Minimum price:728
+Maximum price:38723
+Type:child
+Minimum age:0
+Maximum age:7
+Genre:fairy tale
+Theater:Sydney Opera House
+Performance:Six
+Producer:Troy Eichberger
+Minimum price:5777
+Maximum price:30942
+Type:adult
+Genre:play
+Theater:Pasadena Playhouse
+Performance:A Class Act
+Producer:Tova Childress
+Minimum price:6150
+Maximum price:25315
+Type:adult
+Genre:comedy
+Theater:Fortune Theatre
+Performance:The Crucible
+Producer:Amos Cyrus
+Minimum price:93
+Maximum price:31968
+Type:child
+Minimum age:0
+Maximum age:5
+Genre:play
+Theater:Theatre of Dionysus
+Performance:Beauty and the Beast
+Producer:Brant Esser
+Minimum price:5497
+Maximum price:24155
+Type:musical
+Composer:Elizabeth Maconchy
+Country:Rwanda
+Minimum age:3
+Duration:150
+Theater:Boar’s Head Inn
+Performance:Hired Man
+Producer:Cathi Nie
+Minimum price:4372
+Maximum price:48554
+Type:child
+Minimum age:3
+Maximum age:4
+Genre:play
+Theater:Whitefriars Theatre
+Performance:Hair
+Producer:Melida Toda
+Minimum price:4343
+Maximum price:19157
+Type:adult
+Genre:comedy
+Theater:Palace of Fine Arts
+Performance:A Thurber Carnival
+Producer:Ivelisse Arel
+Minimum price:4320
+Maximum price:32435
+Type:child
+Minimum age:3
+Maximum age:4
+Genre:play
+Theater:Royal Opera House
+Performance:Avenue Q
+Producer:Nickole Frerich
+Minimum price:9435
+Maximum price:46809
+Type:musical
+Composer:Harold Truscott
+Country:Iraq
+Minimum age:4
+Duration:168
+Theater:Lyceum Theatre
+Performance:City of Angels
+Producer:Ling Rizzuto
+Minimum price:3409
+Maximum price:49878
+Type:child
+Minimum age:0
+Maximum age:5
+Genre:play
+Theater:La Scala
+Performance:Bugsy Malone
+Producer:Jessica Spurgers
+Minimum price:7506
+Maximum price:15073
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:play
+Theater:Curtain Theatre
+Performance:City of Angels
+Producer:James Beaz
+Minimum price:8273
+Maximum price:14925
+Type:adult
+Genre:comedy
+Theater:Swan Theatre
+Performance:Can-Can
+Producer:Wava Vanoli
+Minimum price:853
+Maximum price:41088
+Type:adult
+Genre:drama
+Theater:Palace of Fine Arts
+Performance:Funny Girl
+Producer:Lamont Kounthapanya
+Minimum price:22
+Maximum price:48663
+Type:adult
+Genre:comedy
+Theater:Teatro Farnese
+Performance:Cats
+Producer:Vanda Mckosky
+Minimum price:2376
+Maximum price:30111
+Type:child
+Minimum age:3
+Maximum age:7
+Genre:fairy tale
+Theater:Teatro Farnese
+Performance:Head Over Heels
+Producer:Winfred Fausnaugh
+Minimum price:9430
+Maximum price:31174
+Type:musical
+Composer:Oedoen Partos
+Country:Peru
+Minimum age:0
+Duration:180
+Theater:Moscow Art Theatre
+Performance:Hello, Dolly!
+Producer:Glayds Howton
+Minimum price:1090
+Maximum price:29757
+Type:musical
+Composer:Frank Perkins
+Country:Latvia
+Minimum age:3
+Duration:168
+Theater:Schouwburg
+Performance:Rock of Ages
+Producer:Lurline Demay
+Minimum price:233
+Maximum price:12798
+Type:adult
+Genre:play
+Theater:Moscow Art Theatre
+Performance:The Book of Mormon
+Producer:David Steitz
+Minimum price:9934
+Maximum price:10062
+Type:adult
+Genre:play
+Theater:Teatro Farnese
+Performance:Shrek the Musical
+Producer:Buster Dellosso
+Minimum price:7443
+Maximum price:48991
+Type:adult
+Genre:drama
+Theater:Pasadena Playhouse
+Performance:Pippin
+Producer:Darius Allaman
+Minimum price:7151
+Maximum price:28003
+Type:musical
+Composer:John Rutter
+Country:Vietnam
+Minimum age:2
+Duration:127
+Theater:Sydney Opera House
+Performance:Mrs. Doubtfire
+Producer:Lino Perow
+Minimum price:222
+Maximum price:25119
+Type:musical
+Composer:Edmund Rubbra
+Country:Honduras
+Minimum age:1
+Duration:148
+Theater:Globe Theatre
+Performance:The Little Mermaid
+Producer:Yon Mcelvy
+Minimum price:2141
+Maximum price:42161
+Type:musical
+Composer:Morton Gould
+Country:Taiwan
+Minimum age:2
+Duration:188
+Theater:Blackfriars Theatre
+Performance:Love Story
+Producer:Frederick Sodervick
+Minimum price:732
+Maximum price:27055
+Type:adult
+Genre:play
+Theater:Teatro Farnese
+Performance:Wind in the Willows
+Producer:Tricia Crummey
+Minimum price:5752
+Maximum price:13646
+Type:child
+Minimum age:3
+Maximum age:5
+Genre:play
+Theater:Abbey Theatre
+Performance:Spring Awakening
+Producer:Odelia Lidbom
+Minimum price:1683
+Maximum price:37587
+Type:musical
+Composer:Peter Lamb
+Country:Djibouti
+Minimum age:5
+Duration:156
+Theater:Gate Theatre
+Performance:Sing Street
+Producer:Gracia Carretta
+Minimum price:8992
+Maximum price:16132
+Type:musical
+Composer:Robert Simpson
+Country:Chile
+Minimum age:1
+Duration:132
+Theater:Lyceum Theatre
+Performance:Calamity Jane
+Producer:Ashly Lickness
+Minimum price:5466
+Maximum price:43796
+Type:adult
+Genre:comedy
+Theater:La Scala
+Performance:Ziegfeld Follies
+Producer:Maudie Branscum
+Minimum price:7796
+Maximum price:16254
+Type:child
+Minimum age:3
+Maximum age:5
+Genre:play
+Theater:La Scala
+Performance:Sunset Boulevard
+Producer:Lorita Berte
+Minimum price:3445
+Maximum price:40164
+Type:child
+Minimum age:1
+Maximum age:5
+Genre:fairy tale
+Theater:La Scala
+Performance:Six
+Producer:Sharda Szczepanik
+Minimum price:6238
+Maximum price:23848
+Type:adult
+Genre:drama
+Theater:Whitefriars Theatre
+Performance:Desert Song
+Producer:Billie Edd
+Minimum price:4786
+Maximum price:27652
+Type:adult
+Genre:comedy
+Theater:Lyceum Theatre
+Performance:Starmites
+Producer:Noe Rigby
+Minimum price:5735
+Maximum price:22949
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:play
+Theater:Whitefriars Theatre
+Performance:Color Purple, The
+Producer:Clinton Sarks
+Minimum price:2125
+Maximum price:28494
+Type:adult
+Genre:comedy
+Theater:Apollo Theater
+Performance:The Fantasticks
+Producer:Loma Sau
+Minimum price:9447
+Maximum price:40876
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:fairy tale
+Theater:Pasadena Playhouse
+Performance:Antigone
+Producer:Jaime Alapai
+Minimum price:1075
+Maximum price:22019
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:play
+Theater:Lyceum Theatre
+Performance:Gotta Dance
+Producer:Kim Lifsey
+Minimum price:3938
+Maximum price:13124
+Type:musical
+Composer:Malcolm Arnold
+Country:Guatemala
+Minimum age:3
+Duration:147
+Theater:Curtain Theatre
+Performance:Dangerous Game
+Producer:Maricruz Kornman
+Minimum price:1180
+Maximum price:46244
+Type:child
+Minimum age:3
+Maximum age:4
+Genre:play
+Theater:Curtain Theatre
+Performance:Clue: The Musical
+Producer:Darcey Nghe
+Minimum price:7378
+Maximum price:13331
+Type:adult
+Genre:play
+Theater:Theatre of Dionysus
+Performance:The Book of Mormon
+Producer:Hyacinth Kais
+Minimum price:3445
+Maximum price:39494
+Type:adult
+Genre:drama
+Theater:Fortune Theatre
+Performance:The Secret Garden
+Producer:Willodean Whyne
+Minimum price:6110
+Maximum price:12535
+Type:musical
+Composer:George Lloyd
+Country:Turkey
+Minimum age:0
+Duration:131
+Theater:Mariinsky Theatre
+Performance:The Who's Tommy
+Producer:Britt Peraro
+Minimum price:9881
+Maximum price:13352
+Type:child
+Minimum age:0
+Maximum age:4
+Genre:play
+Theater:Blackfriars Theatre
+Performance:13: The Musical
+Producer:Amie Galbreth
+Minimum price:9628
+Maximum price:20932
+Type:musical
+Composer:Ron Nelson
+Country:Ecuador
+Minimum age:0
+Duration:182
+Theater:Abbey Theatre
+Performance:Young Frankenstein
+Producer:Tona Lerper
+Minimum price:9287
+Maximum price:22966
+Type:child
+Minimum age:0
+Maximum age:4
+Genre:play
+Theater:Teatro Farnese
+Performance:Moulin Rouge
+Producer:Mimi Setterland
+Minimum price:9638
+Maximum price:10423
+Type:musical
+Composer:Harold Truscott
+Country:Albania
+Minimum age:3
+Duration:154
+Theater:Vienna State Opera
+Performance:110 In the Shade
+Producer:Lori Nordstrom
+Minimum price:7550
+Maximum price:11292
+Type:musical
+Composer:Werner Wolf Glaser
+Country:Zambia
+Minimum age:2
+Duration:108
+Theater:Globe Theatre
+Performance:Steel Magnolias
+Producer:Sergio Kamler
+Minimum price:2467
+Maximum price:39260
+Type:adult
+Genre:play
+Theater:Boar’s Head Inn
+Performance:Sunset Boulevard
+Producer:Bronwyn Perone
+Minimum price:3961
+Maximum price:39399
+Type:child
+Minimum age:0
+Maximum age:5
+Genre:play
+Theater:Vienna State Opera
+Performance:Something Rotten
+Producer:Inez Pal
+Minimum price:1526
+Maximum price:39281
+Type:adult
+Genre:play
+Theater:Apollo Theater
+Performance:By Jeeves
+Producer:Leopoldo Dishian
+Minimum price:9952
+Maximum price:49094
+Type:adult
+Genre:drama
+Theater:Theatre of Dionysus
+Performance:Most Happy Fella
+Producer:Mayola Furl
+Minimum price:803
+Maximum price:11582
+Type:adult
+Genre:play
+Theater:Apollo Theater
+Performance:Sound of Music
+Producer:Shauna Harrisow
+Minimum price:1595
+Maximum price:23540
+Type:adult
+Genre:comedy
+Theater:Schouwburg
+Performance:Nunsense
+Producer:Kaila Schalow
+Minimum price:4898
+Maximum price:43155
+Type:adult
+Genre:play
+Theater:Red Bull Theatre
+Performance:Violet
+Producer:Flossie Dallesandro
+Minimum price:4289
+Maximum price:38801
+Type:child
+Minimum age:0
+Maximum age:5
+Genre:play
+Theater:Old Vic
+Performance:Cats
+Producer:Rolland Pittsinger
+Minimum price:1120
+Maximum price:19461
+Type:adult
+Genre:drama
+Theater:Whitefriars Theatre
+Performance:Little Me
+Producer:Alvaro Staber
+Minimum price:9521
+Maximum price:27846
+Type:musical
+Composer:Roger Matton
+Country:France
+Minimum age:3
+Duration:104
+Theater:Fortune Theatre
+Performance:Love Story
+Producer:Grisel Radisovich
+Minimum price:6389
+Maximum price:22721
+Type:adult
+Genre:comedy
+Theater:Kamerny Theatre
+Performance:Swing
+Producer:Lexie Birtwell
+Minimum price:7501
+Maximum price:14355
+Type:adult
+Genre:comedy
+Theater:Kamerny Theatre
+Performance:Young Frankenstein
+Producer:Stanton Maigret
+Minimum price:4751
+Maximum price:43484
+Type:musical
+Composer:Aaron Copland
+Country:Paraguay
+Minimum age:2
+Duration:112
+Theater:Gate Theatre
+Performance:Curtains
+Producer:Kaila Chia
+Minimum price:7549
+Maximum price:47087
+Type:musical
+Composer:Ron Nelson
+Country:Turkmenistan
+Minimum age:2
+Duration:171
+Theater:Teatro Farnese
+Performance:Death of a Salesman
+Producer:Raphael Dones
+Minimum price:8029
+Maximum price:24191
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:fairy tale
+Theater:Vienna State Opera
+Performance:Hamilton (musical)
+Producer:Karleen Mejia
+Minimum price:7089
+Maximum price:30054
+Type:child
+Minimum age:0
+Maximum age:7
+Genre:fairy tale
+Theater:Blackfriars Theatre
+Performance:Grease
+Producer:Fumiko Bashinelli
+Minimum price:1190
+Maximum price:35914
+Type:adult
+Genre:play
+Theater:Boar’s Head Inn
+Performance:Falsettos
+Producer:Anibal Scroggs
+Minimum price:4451
+Maximum price:36078
+Type:adult
+Genre:drama
+Theater:Sydney Opera House
+Performance:Starlight Express
+Producer:Elease Wheeling
+Minimum price:7773
+Maximum price:49760
+Type:adult
+Genre:drama
+Theater:Fortune Theatre
+Performance:Saturday Night Fever
+Producer:Clarisa Amenta
+Minimum price:9372
+Maximum price:21038
+Type:musical
+Composer:Gerald Finzi
+Country:Kenya
+Minimum age:3
+Duration:157
+Theater:Sydney Opera House
+Performance:Applause
+Producer:Ilene Serini
+Minimum price:9042
+Maximum price:31862
+Type:adult
+Genre:drama
+Theater:Apollo Theater
+Performance:Aspects of Love
+Producer:Aletha Iheme
+Minimum price:4393
+Maximum price:48581
+Type:musical
+Composer:Dmitri Shostakovich
+Country:Venezuela
+Minimum age:5
+Duration:195
+Theater:Fortune Theatre
+Performance:Anything Goes
+Producer:Shanae Alred
+Minimum price:6570
+Maximum price:14695
+Type:adult
+Genre:play
+Theater:Fortune Theatre
+Performance:Crazy For You
+Producer:Neida Boorman
+Minimum price:919
+Maximum price:46072
+Type:child
+Minimum age:3
+Maximum age:5
+Genre:play
+Theater:Mariinsky Theatre
+Performance:Beauty and the Beast
+Producer:Danial Bahls
+Minimum price:80
+Maximum price:17728
+Type:adult
+Genre:drama
+Theater:Schouwburg
+Performance:The Visit
+Producer:Precious Ariel
+Minimum price:801
+Maximum price:16651
+Type:musical
+Composer:George Lloyd
+Country:Benin
+Minimum age:2
+Duration:128
+Theater:Boar’s Head Inn
+Performance:Bare
+Producer:Jacqulyn Gritman
+Minimum price:3867
+Maximum price:40540
+Type:child
+Minimum age:1
+Maximum age:7
+Genre:fairy tale
+Theater:Teatro Farnese
+Performance:Honeymoon in Vegas
+Producer:Annika Cearley
+Minimum price:6399
+Maximum price:31068
+Type:musical
+Composer:Daniel Sternefeld
+Country:The Bahamas
+Minimum age:4
+Duration:136
+Theater:Red Bull Theatre
+Performance:Shrek the Musical
+Producer:Julianne Blakney
+Minimum price:3463
+Maximum price:15309
+Type:adult
+Genre:play
+Theater:Old Vic
+Performance:Hadestown
+Producer:Cesar Exton
+Minimum price:1702
+Maximum price:27340
+Type:musical
+Composer:Michael Dewar Head
+Country:Belize
+Minimum age:5
+Duration:111
+Theater:Palace of Fine Arts
+Performance:The Wedding Singer
+Producer:Sherman Piechocki
+Minimum price:4259
+Maximum price:33333
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:fairy tale
+Theater:Palace of Fine Arts
+Performance:The Wiz
+Producer:Lesa Stucke
+Minimum price:2349
+Maximum price:48230
+Type:adult
+Genre:drama
+Theater:Schouwburg
+Performance:Gigi
+Producer:Cesar Firlik
+Minimum price:5958
+Maximum price:10183
+Type:musical
+Composer:Eugene Bozza
+Country:Gambia
+Minimum age:4
+Duration:108
+Theater:Lyceum Theatre
+Performance:Billy Elliott
+Producer:Kemberly Allnutt
+Minimum price:470
+Maximum price:34882
+Type:adult
+Genre:play
+Theater:Sydney Opera House
+Performance:The Magic Show
+Producer:Aron Betschman
+Minimum price:3107
+Maximum price:40351
+Type:musical
+Composer:Michael Dewar Head
+Country:Gabon
+Minimum age:5
+Duration:125
+Theater:Curtain Theatre
+Performance:Wesele
+Producer:Gene Weitzel
+Minimum price:8568
+Maximum price:38230
+Type:child
+Minimum age:1
+Maximum age:4
+Genre:fairy tale
+Theater:Fortune Theatre
+Performance:Finian's Rainbow
+Producer:Elfriede Schmits
+Minimum price:3902
+Maximum price:20654
+Type:adult
+Genre:comedy
+Theater:Whitefriars Theatre
+Performance:Aida
+Producer:Phil Forstedt
+Minimum price:1549
+Maximum price:37697
+Type:musical
+Composer:Ron Nelson
+Country:Zambia
+Minimum age:3
+Duration:124
+Theater:Kamerny Theatre
+Performance:Victor/Victoria
+Producer:Galen Heisner
+Minimum price:3716
+Maximum price:38345
+Type:musical
+Composer:Eugene Bozza
+Country:Tunisia
+Minimum age:1
+Duration:106
+Theater:Boar’s Head Inn
+Performance:Forbidden Broadway
+Producer:Vinita Kayler
+Minimum price:906
+Maximum price:31397
+Type:adult
+Genre:play
+Theater:Royal Opera House
+Performance:Anything Goes
+Producer:Marcela Marusarz
+Minimum price:9125
+Maximum price:29905
+Type:musical
+Composer:John Tavener
+Country:Mozambique
+Minimum age:0
+Duration:158
+Theater:The Theatre
+Performance:The Full Monty
+Producer:Patrina Appelt
+Minimum price:8434
+Maximum price:18649
+Type:musical
+Composer:Gerald Finzi
+Country:Oman
+Minimum age:5
+Duration:192
+Theater:The Theatre
+Performance:The Wedding Singer
+Producer:Monet Blach
+Minimum price:7730
+Maximum price:49920
+Type:adult
+Genre:play
+Theater:Fortune Theatre
+Performance:City of Angels
+Producer:My Bankey
+Minimum price:382
+Maximum price:33870
+Type:adult
+Genre:comedy
+Theater:Fortune Theatre
+Performance:Matilda
+Producer:Werner Bandulin
+Minimum price:4732
+Maximum price:37704
+Type:adult
+Genre:drama
+Theater:Boar’s Head Inn
+Performance:Godspell
+Producer:Albertine Calvert
+Minimum price:4426
+Maximum price:29256
+Type:musical
+Composer:Malcolm Arnold
+Country:Bangladesh
+Minimum age:0
+Duration:188
+Theater:Pasadena Playhouse
+Performance:Spring Awakening
+Producer:Tona Sweatt
+Minimum price:2579
+Maximum price:38818
+Type:child
+Minimum age:2
+Maximum age:5
+Genre:fairy tale
+Theater:The Theatre
+Performance:Sunset Boulevard
+Producer:Floretta Schlarb
+Minimum price:4695
+Maximum price:16737
+Type:child
+Minimum age:1
+Maximum age:7
+Genre:play
+Theater:Old Vic
+Performance:Spamalot
+Producer:Rusty Boesch
+Minimum price:4010
+Maximum price:27419
+Type:child
+Minimum age:3
+Maximum age:7
+Genre:play
+Theater:Red Bull Theatre
+Performance:Copacabana
+Producer:Elaine John
+Minimum price:6845
+Maximum price:26287
+Type:child
+Minimum age:1
+Maximum age:4
+Genre:fairy tale
+Theater:Theatre of Dionysus
+Performance:Miss Saigon
+Producer:Gerald Grosjean
+Minimum price:9009
+Maximum price:30210
+Type:musical
+Composer:Paul Constantinescu
+Country:Azerbaijan
+Minimum age:5
+Duration:157
+Theater:South Bank
+Performance:Hadestown
+Producer:Marilyn Flinders
+Minimum price:3438
+Maximum price:12003
+Type:musical
+Composer:Andrew Lloyd Webber
+Country:Guyana
+Minimum age:2
+Duration:173
+Theater:La Scala
+Performance:Movin' Out
+Producer:Illa Pelter
+Minimum price:9361
+Maximum price:34862
+Type:musical
+Composer:Eugene Bozza
+Country:Panama
+Minimum age:1
+Duration:125
+Theater:Drury Lane Theatre
+Performance:The Threepenny Opera
+Producer:Scotty Ogan
+Minimum price:4418
+Maximum price:27347
+Type:adult
+Genre:play
+Theater:Teatro Farnese
+Performance:Newsies
+Producer:Joann Mollett
+Minimum price:9847
+Maximum price:39832
+Type:musical
+Composer:Günter Braun
+Country:Kazakhstan
+Minimum age:1
+Duration:166
+Theater:Lyceum Theatre
+Performance:The Crucible
+Producer:Shoshana Ciancio
+Minimum price:1770
+Maximum price:43675
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:play
+Theater:Palace of Fine Arts
+Performance:Motown: The Musical
+Producer:Nicol Behizadeh
+Minimum price:4949
+Maximum price:27367
+Type:musical
+Composer:Pierre Gallant
+Country:Ghana
+Minimum age:3
+Duration:188
+Theater:Blackfriars Theatre
+Performance:Twelve Angry Jurors
+Producer:Dawne Mulkhey
+Minimum price:6535
+Maximum price:35070
+Type:child
+Minimum age:2
+Maximum age:4
+Genre:fairy tale
+Theater:Pasadena Playhouse
+Performance:We Will Rock You
+Producer:Otto Huckabone
+Minimum price:4554
+Maximum price:13316
+Type:adult
+Genre:drama
+Theater:The Theatre
+Performance:Copacabana
+Producer:Deetta Candanoza
+Minimum price:5571
+Maximum price:25607
+Type:adult
+Genre:drama
+Theater:Moscow Art Theatre
+Performance:The Producers
+Producer:Morton Justino
+Minimum price:5420
+Maximum price:40127
+Type:adult
+Genre:comedy
+Theater:Apollo Theater
+Performance:Addams Family
+Producer:Krissy Engelstad
+Minimum price:7786
+Maximum price:47898
+Type:adult
+Genre:drama
+Theater:Vienna State Opera
+Performance:KPOP
+Producer:Neta Robare
+Minimum price:5012
+Maximum price:38773
+Type:musical
+Composer:Emil Tabakov
+Country:Azerbaijan
+Minimum age:2
+Duration:150
+Theater:Schouwburg
+Performance:Beggar's Opera
+Producer:Shani Paray
+Minimum price:8887
+Maximum price:40324
+Type:child
+Minimum age:2
+Maximum age:4
+Genre:fairy tale
+Theater:Swan Theatre
+Performance:War Paint
+Producer:Jeannetta Schartz
+Minimum price:5705
+Maximum price:24570
+Type:musical
+Composer:Eugene Bozza
+Country:Malawi
+Minimum age:3
+Duration:166
+Theater:Pasadena Playhouse
+Performance:Dracula
+Producer:Dinorah Flatt
+Minimum price:3609
+Maximum price:35308
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:fairy tale
+Theater:Rose Theatre
+Performance:All About Me
+Producer:Camila Ratterree
+Minimum price:6380
+Maximum price:36440
+Type:musical
+Composer:George Rochberg
+Country:Greece
+Minimum age:1
+Duration:108
+Theater:La Scala
+Performance:Crazy For You
+Producer:Debbra Maritt
+Minimum price:4625
+Maximum price:33144
+Type:adult
+Genre:play
+Theater:Gate Theatre
+Performance:Song and Dance
+Producer:Dario Brucato
+Minimum price:8927
+Maximum price:22318
+Type:child
+Minimum age:0
+Maximum age:7
+Genre:play
+Theater:Swan Theatre
+Performance:Waiting for Godot
+Producer:Dawna Sosbee
+Minimum price:3740
+Maximum price:34739
+Type:child
+Minimum age:2
+Maximum age:4
+Genre:play
+Theater:Theatre of Dionysus
+Performance:Secret Garden
+Producer:Hong Salb
+Minimum price:1947
+Maximum price:26147
+Type:adult
+Genre:comedy
+Theater:Drury Lane Theatre
+Performance:Applause
+Producer:Gillian Gildersleeve
+Minimum price:8700
+Maximum price:18402
+Type:adult
+Genre:drama
+Theater:Vienna State Opera
+Performance:Ziegfeld Follies
+Producer:Dionna Bahe
+Minimum price:4222
+Maximum price:14395
+Type:child
+Minimum age:0
+Maximum age:7
+Genre:fairy tale
+Theater:Sydney Opera House
+Performance:Guys and Dolls
+Producer:Yuonne Faglie
+Minimum price:765
+Maximum price:16450
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:play
+Theater:Abbey Theatre
+Performance:Hired Man
+Producer:Twanna Kramarczyk
+Minimum price:9758
+Maximum price:10265
+Type:adult
+Genre:comedy
+Theater:La Scala
+Performance:On Your Feet
+Producer:Mina Hollingshead
+Minimum price:9442
+Maximum price:48412
+Type:musical
+Composer:Malcolm Arnold
+Country:Gambia
+Minimum age:4
+Duration:191
+Theater:Teatro Farnese
+Performance:Addams Family
+Producer:Pia Kreinhagen
+Minimum price:6513
+Maximum price:49660
+Type:child
+Minimum age:0
+Maximum age:7
+Genre:play
+Theater:Kamerny Theatre
+Performance:Xanadu
+Producer:Malisa Galster
+Minimum price:9719
+Maximum price:49677
+Type:musical
+Composer:Paul Creston
+Country:South Sudan
+Minimum age:1
+Duration:185
+Theater:Curtain Theatre
+Performance:Burn the Floor
+Producer:Ann Gemmell
+Minimum price:7245
+Maximum price:16128
+Type:musical
+Composer:Harold Truscott
+Country:Malta
+Minimum age:0
+Duration:196
+Theater:Theatre of Dionysus
+Performance:Porgy and Bess
+Producer:Usha Min
+Minimum price:4303
+Maximum price:17508
+Type:musical
+Composer:Vaclav Nelhybel
+Country:China
+Minimum age:1
+Duration:169
+Theater:Rose Theatre
+Performance:Back to the Future
+Producer:Meri Jacobsma
+Minimum price:9114
+Maximum price:32357
+Type:musical
+Composer:Eugene Bozza
+Country:Chad
+Minimum age:0
+Duration:158
+Theater:Rose Theatre
+Performance:Bombay Dreams
+Producer:Kathlyn Forkan
+Minimum price:2728
+Maximum price:22094
+Type:musical
+Composer:Ronald Binge
+Country:Holy See
+Minimum age:5
+Duration:127
+Theater:Pasadena Playhouse
+Performance:The Band's Visit
+Producer:Chanell Bogue
+Minimum price:4941
+Maximum price:35674
+Type:musical
+Composer:Witold Lutoslavski
+Country:Colombia
+Minimum age:4
+Duration:188
+Theater:Fortune Theatre
+Performance:Damn Yankees
+Producer:Shila Malasky
+Minimum price:8711
+Maximum price:20721
+Type:child
+Minimum age:1
+Maximum age:7
+Genre:play
+Theater:Mariinsky Theatre
+Performance:American Idiot
+Producer:Chanell Mizwicki
+Minimum price:3641
+Maximum price:29504
+Type:adult
+Genre:drama
+Theater:The Theatre
+Performance:Heathers
+Producer:Tona Fregozo
+Minimum price:6860
+Maximum price:31695
+Type:adult
+Genre:play
+Theater:Vienna State Opera
+Performance:A Thurber Carnival
+Producer:Gabriella Sivak
+Minimum price:3186
+Maximum price:17545
+Type:adult
+Genre:drama
+Theater:Swan Theatre
+Performance:Finding Neverland
+Producer:Guillermina Vessella
+Minimum price:8231
+Maximum price:15237
+Type:adult
+Genre:play
+Theater:Kamerny Theatre
+Performance:Annie
+Producer:Kelli Wolfram
+Minimum price:9701
+Maximum price:47843
+Type:musical
+Composer:Arvo Part
+Country:Tanzania
+Minimum age:4
+Duration:131
+Theater:Teatro Farnese
+Performance:West Side Story
+Producer:Winford Welner
+Minimum price:9488
+Maximum price:35724
+Type:adult
+Genre:play
+Theater:Apollo Theater
+Performance:Duchess of Malfi
+Producer:Mellisa Aquil
+Minimum price:1487
+Maximum price:44740
+Type:adult
+Genre:drama
+Theater:Vienna State Opera
+Performance:Waiting for Godot
+Producer:Allene Nishimoto
+Minimum price:5895
+Maximum price:28797
+Type:child
+Minimum age:3
+Maximum age:7
+Genre:play
+Theater:Vienna State Opera
+Performance:Mame
+Producer:Laurice Baldrige
+Minimum price:3490
+Maximum price:18139
+Type:adult
+Genre:drama
+Theater:Abbey Theatre
+Performance:The Secret Garden
+Producer:Samella Lassen
+Minimum price:9651
+Maximum price:20828
+Type:musical
+Composer:Sir Lennox Berkeley
+Country:Isle of Man
+Minimum age:5
+Duration:158
+Theater:Rose Theatre
+Performance:Heathers
+Producer:Celena Hollyfield
+Minimum price:828
+Maximum price:36884
+Type:adult
+Genre:comedy
+Theater:Whitefriars Theatre
+Performance:First Date
+Producer:Jeremiah Morell
+Minimum price:4944
+Maximum price:43030
+Type:musical
+Composer:Alan Hovhaness
+Country:Netherlands
+Minimum age:3
+Duration:199
+Theater:La Scala
+Performance:Patience
+Producer:Max Rettke
+Minimum price:5659
+Maximum price:36297
+Type:adult
+Genre:play
+Theater:Abbey Theatre
+Performance:The Scottsboro Boys
+Producer:Gregorio Draft
+Minimum price:8597
+Maximum price:49293
+Type:musical
+Composer:John Tavener
+Country:Laos
+Minimum age:4
+Duration:111
+Theater:Theatre of Dionysus
+Performance:Something Rotten
+Producer:Tori Gorz
+Minimum price:1370
+Maximum price:33448
+Type:adult
+Genre:drama
+Theater:South Bank
+Performance:Starlight Express
+Producer:Lala Brener
+Minimum price:5798
+Maximum price:17450
+Type:adult
+Genre:comedy
+Theater:Drury Lane Theatre
+Performance:Spelling Bee
+Producer:Marg Vankampen
+Minimum price:4159
+Maximum price:41806
+Type:adult
+Genre:play
+Theater:The Cockpit
+Performance:Kismet
+Producer:Asley Wimpee
+Minimum price:6628
+Maximum price:21718
+Type:musical
+Composer:Maurice Durufle
+Country:Tajikistan
+Minimum age:1
+Duration:110
+Theater:Globe Theatre
+Performance:Follies
+Producer:Cheryle Pedraza
+Minimum price:3672
+Maximum price:44514
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:play
+Theater:Swan Theatre
+Performance:The Crucible
+Producer:Regina Kaui
+Minimum price:3064
+Maximum price:22719
+Type:adult
+Genre:drama
+Theater:South Bank
+Performance:A Christmas Carol
+Producer:Aurea Higa
+Minimum price:5311
+Maximum price:46963
+Type:adult
+Genre:comedy
+Theater:Palace of Fine Arts
+Performance:Billy Elliott
+Producer:Marisa Staver
+Minimum price:3901
+Maximum price:10877
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:play
+Theater:The Theatre
+Performance:Hands on a Hardbody
+Producer:Rudolph Malinsky
+Minimum price:3553
+Maximum price:42280
+Type:musical
+Composer:Kirke Mechem
+Country:Slovenia
+Minimum age:5
+Duration:114
+Theater:Swan Theatre
+Performance:Starlight Express
+Producer:Nettie Stlaurent
+Minimum price:9834
+Maximum price:28209
+Type:child
+Minimum age:0
+Maximum age:5
+Genre:play
+Theater:Swan Theatre
+Performance:Rock of Ages
+Producer:Rafael Acheampong
+Minimum price:6939
+Maximum price:10323
+Type:musical
+Composer:Howard Ferguson
+Country:Lesotho
+Minimum age:0
+Duration:103
+Theater:South Bank
+Performance:Aladdin
+Producer:Sabine Quintel
+Minimum price:7925
+Maximum price:42749
+Type:adult
+Genre:play
+Theater:Blackfriars Theatre
+Performance:Caroline, or Change
+Producer:Eliana Altmire
+Minimum price:1898
+Maximum price:40550
+Type:musical
+Composer:Alan Hovhaness
+Country:Guinea
+Minimum age:3
+Duration:175
+Theater:Hope Theatre
+Performance:Sister Act
+Producer:Kathryne Labarbara
+Minimum price:5437
+Maximum price:32105
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:play
+Theater:Lyceum Theatre
+Performance:The Christmas Carol
+Producer:Liz Scheiber
+Minimum price:616
+Maximum price:44632
+Type:adult
+Genre:drama
+Theater:La Scala
+Performance:The Apple Tree
+Producer:Christoper Freber
+Minimum price:6831
+Maximum price:33397
+Type:musical
+Composer:Morton Gould
+Country:Portugal
+Minimum age:0
+Duration:112
+Theater:South Bank
+Performance:Catch Me If You Can
+Producer:Tammie Lueker
+Minimum price:4499
+Maximum price:21955
+Type:adult
+Genre:drama
+Theater:Globe Theatre
+Performance:Strike Up the Band
+Producer:Isabella Delaremore
+Minimum price:5063
+Maximum price:38744
+Type:adult
+Genre:comedy
+Theater:The Cockpit
+Performance:Annie
+Producer:Lewis Wintersteen
+Minimum price:3749
+Maximum price:21768
+Type:musical
+Composer:Ernest Tomlinson
+Country:The Bahamas
+Minimum age:2
+Duration:181
+Theater:Vienna State Opera
+Performance:Boys From Syracuse
+Producer:Elizbeth Andrian
+Minimum price:7947
+Maximum price:18909
+Type:child
+Minimum age:0
+Maximum age:6
+Genre:fairy tale
+Theater:Moscow Art Theatre
+Performance:Assassins
+Producer:Danial Polzer
+Minimum price:4801
+Maximum price:45144
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:play
+Theater:Rose Theatre
+Performance:The Book of Mormon
+Producer:Fermin Wojewoda
+Minimum price:2114
+Maximum price:11513
+Type:child
+Minimum age:1
+Maximum age:7
+Genre:play
+Theater:Fortune Theatre
+Performance:Mean Girls
+Producer:Shondra Kissam
+Minimum price:3053
+Maximum price:27622
+Type:adult
+Genre:play
+Theater:Boar’s Head Inn
+Performance:State Fair
+Producer:Kena Fulson
+Minimum price:9869
+Maximum price:45776
+Type:adult
+Genre:drama
+Theater:Blackfriars Theatre
+Performance:Bells are Ringing
+Producer:Le Firkey
+Minimum price:9222
+Maximum price:40653
+Type:musical
+Composer:Milan Kymlicka
+Country:Syria
+Minimum age:5
+Duration:191
+Theater:Apollo Theater
+Performance:Bonnie and Clyde
+Producer:Raye Eichmann
+Minimum price:4205
+Maximum price:10568
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:play
+Theater:Lyceum Theatre
+Performance:Bat Boy the Musical
+Producer:Sheila Grossnickle
+Minimum price:1202
+Maximum price:49341
+Type:adult
+Genre:drama
+Theater:Sydney Opera House
+Performance:Shrek the Musical
+Producer:Marica Greeson
+Minimum price:4653
+Maximum price:13933
+Type:child
+Minimum age:3
+Maximum age:4
+Genre:fairy tale
+Theater:Red Bull Theatre
+Performance:A Bronx Tale
+Producer:Rogelio Dorazio
+Minimum price:9690
+Maximum price:36887
+Type:musical
+Composer:Ida Presti
+Country:DR Congo
+Minimum age:2
+Duration:112
+Theater:Blackfriars Theatre
+Performance:Boys From Syracuse
+Producer:Shirlene Broxton
+Minimum price:3663
+Maximum price:21755
+Type:child
+Minimum age:1
+Maximum age:4
+Genre:fairy tale
+Theater:Sydney Opera House
+Performance:Sweeney Todd
+Producer:Romeo Picart
+Minimum price:2193
+Maximum price:48562
+Type:musical
+Composer:Julius Chajes
+Country:Italy
+Minimum age:0
+Duration:148
+Theater:Vienna State Opera
+Performance:Bonnie & Clyde
+Producer:Loyce Kaschel
+Minimum price:9336
+Maximum price:26969
+Type:musical
+Composer:Elizabeth Maconchy
+Country:Romania
+Minimum age:1
+Duration:190
+Theater:Theatre of Dionysus
+Performance:Passion
+Producer:Karen Kendzierski
+Minimum price:4712
+Maximum price:35778
+Type:musical
+Composer:Alfred Schnittke
+Country:Latvia
+Minimum age:4
+Duration:145
+Theater:Mariinsky Theatre
+Performance:Starlight Express
+Producer:Alton Mckenley
+Minimum price:3660
+Maximum price:15808
+Type:musical
+Composer:Werner Wolf Glaser
+Country:Lesotho
+Minimum age:2
+Duration:168
+Theater:Gate Theatre
+Performance:MJ
+Producer:Michelle Gan
+Minimum price:8755
+Maximum price:20297
+Type:musical
+Composer:William Joseph
+Country:United Kingdom
+Minimum age:2
+Duration:120
+Theater:Moscow Art Theatre
+Performance:A Christmas Carol
+Producer:Roselee Ogburn
+Minimum price:1779
+Maximum price:33829
+Type:child
+Minimum age:1
+Maximum age:5
+Genre:play
+Theater:Vienna State Opera
+Performance:Sweet Charity
+Producer:Lola Goo
+Minimum price:9145
+Maximum price:31254
+Type:adult
+Genre:drama
+Theater:Lyceum Theatre
+Performance:Beyond the Fringe
+Producer:Vallie Luckenbill
+Minimum price:7964
+Maximum price:26834
+Type:adult
+Genre:comedy
+Theater:Boar’s Head Inn
+Performance:Next to Normal
+Producer:Luther Horsford
+Minimum price:2415
+Maximum price:42630
+Type:child
+Minimum age:0
+Maximum age:6
+Genre:play
+Theater:South Bank
+Performance:Drowsy Chaperone
+Producer:Catherin Tomita
+Minimum price:1630
+Maximum price:12771
+Type:adult
+Genre:play
+Theater:Theatre of Dionysus
+Performance:Children of Eden
+Producer:Belinda Melady
+Minimum price:5429
+Maximum price:42072
+Type:musical
+Composer:William Alwyn
+Country:Switzerland
+Minimum age:2
+Duration:131
+Theater:Old Vic
+Performance:Fun Home
+Producer:Sarai Ariano
+Minimum price:244
+Maximum price:12015
+Type:musical
+Composer:Peter Mennin
+Country:Seychelles
+Minimum age:1
+Duration:121
+Theater:Hope Theatre
+Performance:Annie Get Your Gun
+Producer:Jacinto Birkes
+Minimum price:1811
+Maximum price:47040
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:play
+Theater:Red Bull Theatre
+Performance:Children of Eden
+Producer:Olin Carthew
+Minimum price:9782
+Maximum price:46187
+Type:musical
+Composer:Aaron Copland
+Country:Peru
+Minimum age:1
+Duration:142
+Theater:Whitefriars Theatre
+Performance:Parade
+Producer:Emma Shiverdecker
+Minimum price:7995
+Maximum price:21267
+Type:child
+Minimum age:0
+Maximum age:5
+Genre:fairy tale
+Theater:The Cockpit
+Performance:Drowsy Chaperone
+Producer:Danelle Fansler
+Minimum price:3531
+Maximum price:29740
+Type:child
+Minimum age:1
+Maximum age:5
+Genre:fairy tale
+Theater:La Scala
+Performance:Babes in Arms
+Producer:Kathie Sturgill
+Minimum price:9334
+Maximum price:26268
+Type:child
+Minimum age:0
+Maximum age:7
+Genre:fairy tale
+Theater:Gate Theatre
+Performance:Saturday Night Fever
+Producer:Karie Landaker
+Minimum price:7876
+Maximum price:42982
+Type:child
+Minimum age:1
+Maximum age:5
+Genre:fairy tale
+Theater:The Theatre
+Performance:City of Angels
+Producer:Selma Neugent
+Minimum price:9679
+Maximum price:25448
+Type:adult
+Genre:play
+Theater:Apollo Theater
+Performance:Jagged Little Pill
+Producer:Susy Delange
+Minimum price:9942
+Maximum price:30956
+Type:musical
+Composer:Douglas Lilburn
+Country:Netherlands
+Minimum age:2
+Duration:132
+Theater:Blackfriars Theatre
+Performance:Dracula
+Producer:Cherilyn Russian
+Minimum price:920
+Maximum price:15181
+Type:adult
+Genre:drama
+Theater:Royal Opera House
+Performance:A Strange Loop
+Producer:Ciara Saccucci
+Minimum price:835
+Maximum price:26386
+Type:musical
+Composer:Samuel Barber
+Country:Lithuania
+Minimum age:2
+Duration:193
+Theater:Gate Theatre
+Performance:Crazy For You
+Producer:Roger Roughen
+Minimum price:2706
+Maximum price:18888
+Type:child
+Minimum age:1
+Maximum age:4
+Genre:fairy tale
+Theater:South Bank
+Performance:Fiorello!
+Producer:Caryl Hunsberger
+Minimum price:4185
+Maximum price:23147
+Type:musical
+Composer:John Antill
+Country:Thailand
+Minimum age:5
+Duration:199
+Theater:Royal Opera House
+Performance:Applause
+Producer:Mellie Urteaga
+Minimum price:4587
+Maximum price:43471
+Type:adult
+Genre:comedy
+Theater:South Bank
+Performance:Full Monty
+Producer:Yuri Meagher
+Minimum price:5347
+Maximum price:20385
+Type:adult
+Genre:comedy
+Theater:Drury Lane Theatre
+Performance:Aladdin
+Producer:Lovie Ibric
+Minimum price:9175
+Maximum price:30143
+Type:child
+Minimum age:0
+Maximum age:4
+Genre:play
+Theater:The Cockpit
+Performance:Spamalot
+Producer:Isabell Hinote
+Minimum price:2911
+Maximum price:44934
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:play
+Theater:Hope Theatre
+Performance:Waiting for Godot
+Producer:Germaine Beacham
+Minimum price:7386
+Maximum price:32282
+Type:adult
+Genre:drama
+Theater:South Bank
+Performance:Starlight Express
+Producer:Ardella Goettig
+Minimum price:5029
+Maximum price:27158
+Type:adult
+Genre:play
+Theater:Abbey Theatre
+Performance:A Christmas Story
+Producer:Sumiko Bjella
+Minimum price:801
+Maximum price:14138
+Type:musical
+Composer:Bernard Herrmann
+Country:Luxembourg
+Minimum age:3
+Duration:124
+Theater:Royal Opera House
+Performance:Boeing-Boeing
+Producer:Jarred Dropinski
+Minimum price:6962
+Maximum price:17861
+Type:adult
+Genre:comedy
+Theater:Pasadena Playhouse
+Performance:Starmites
+Producer:Belen Colligan
+Minimum price:7352
+Maximum price:29409
+Type:adult
+Genre:play
+Theater:Red Bull Theatre
+Performance:The Music Man
+Producer:Dan Mckusker
+Minimum price:9107
+Maximum price:36361
+Type:child
+Minimum age:0
+Maximum age:6
+Genre:play
+Theater:Lyceum Theatre
+Performance:An American in Paris
+Producer:Jennefer Blitch
+Minimum price:1051
+Maximum price:27341
+Type:child
+Minimum age:1
+Maximum age:5
+Genre:play
+Theater:Whitefriars Theatre
+Performance:Oh, Coward!
+Producer:Sidney Leneau
+Minimum price:692
+Maximum price:17453
+Type:adult
+Genre:drama
+Theater:The Cockpit
+Performance:Waiting for Godot
+Producer:Carmelo Quincel
+Minimum price:4578
+Maximum price:36374
+Type:child
+Minimum age:0
+Maximum age:4
+Genre:fairy tale
+Theater:Theatre of Dionysus
+Performance:Baby It's You
+Producer:Jenell Kezar
+Minimum price:9488
+Maximum price:49509
+Type:musical
+Composer:Frank Perkins
+Country:Belarus
+Minimum age:5
+Duration:143
+Theater:Moscow Art Theatre
+Performance:Tick, Tick...Boom!
+Producer:Prudence Tuten
+Minimum price:8200
+Maximum price:19144
+Type:musical
+Composer:Michael Gielen
+Country:Egypt
+Minimum age:0
+Duration:154
+Theater:Blackfriars Theatre
+Performance:I Love You Because
+Producer:Pok Bagnall
+Minimum price:645
+Maximum price:43933
+Type:child
+Minimum age:0
+Maximum age:4
+Genre:fairy tale
+Theater:South Bank
+Performance:Caroline, or Change
+Producer:Chantel Chugg
+Minimum price:9013
+Maximum price:31430
+Type:musical
+Composer:Witold Lutoslavski
+Country:Yemen
+Minimum age:1
+Duration:180
+Theater:Mariinsky Theatre
+Performance:Kiss Me Kate
+Producer:Raye Kretzschmar
+Minimum price:6586
+Maximum price:23435
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:fairy tale
+Theater:Mariinsky Theatre
+Performance:Tick Tick Boom
+Producer:Bertha Boe
+Minimum price:3586
+Maximum price:17240
+Type:child
+Minimum age:1
+Maximum age:7
+Genre:play
+Theater:Blackfriars Theatre
+Performance:Newsies
+Producer:Ezekiel Visker
+Minimum price:8014
+Maximum price:27849
+Type:child
+Minimum age:0
+Maximum age:7
+Genre:play
+Theater:Teatro Farnese
+Performance:Once on this Island
+Producer:Delphine Laun
+Minimum price:5862
+Maximum price:32452
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:play
+Theater:Swan Theatre
+Performance:Elf: The Musical
+Producer:Marta Boughamer
+Minimum price:6401
+Maximum price:20699
+Type:child
+Minimum age:3
+Maximum age:7
+Genre:fairy tale
+Theater:Drury Lane Theatre
+Performance:Triumph of Love
+Producer:Gail Buquo
+Minimum price:9010
+Maximum price:17051
+Type:musical
+Composer:Emil Tabakov
+Country:Poland
+Minimum age:4
+Duration:162
+Theater:Moscow Art Theatre
+Performance:Finian's Rainbow
+Producer:Kieth Stoey
+Minimum price:6540
+Maximum price:18331
+Type:child
+Minimum age:3
+Maximum age:5
+Genre:play
+Theater:Apollo Theater
+Performance:Addams Family
+Producer:Lourie Dender
+Minimum price:8040
+Maximum price:18753
+Type:child
+Minimum age:0
+Maximum age:5
+Genre:play
+Theater:Mariinsky Theatre
+Performance:White Christmas
+Producer:Hassan Caccavale
+Minimum price:7870
+Maximum price:45146
+Type:adult
+Genre:drama
+Theater:Curtain Theatre
+Performance:Love Story
+Producer:Luz Wythe
+Minimum price:2522
+Maximum price:46598
+Type:adult
+Genre:comedy
+Theater:Palace of Fine Arts
+Performance:Spamalot
+Producer:Anne Frees
+Minimum price:7165
+Maximum price:32056
+Type:adult
+Genre:play
+Theater:Drury Lane Theatre
+Performance:Shrek the Musical
+Producer:Hsiu Cainglit
+Minimum price:4920
+Maximum price:48998
+Type:child
+Minimum age:1
+Maximum age:7
+Genre:fairy tale
+Theater:Globe Theatre
+Performance:Spring Awakening
+Producer:Mitch Feinman
+Minimum price:6470
+Maximum price:40082
+Type:child
+Minimum age:3
+Maximum age:4
+Genre:fairy tale
+Theater:Curtain Theatre
+Performance:The Book of Mormon
+Producer:Avery Delamora
+Minimum price:1470
+Maximum price:26144
+Type:musical
+Composer:Gerald Finzi
+Country:Saudi Arabia
+Minimum age:1
+Duration:131
+Theater:Globe Theatre
+Performance:Mamma Mia
+Producer:Maureen Naugler
+Minimum price:7823
+Maximum price:15949
+Type:child
+Minimum age:0
+Maximum age:7
+Genre:play
+Theater:Rose Theatre
+Performance:Legally Blonde
+Producer:Isaias Shake
+Minimum price:3427
+Maximum price:25949
+Type:musical
+Composer:Dag Ivar Wiren
+Country:Mali
+Minimum age:0
+Duration:170
+Theater:Fortune Theatre
+Performance:American Idiot
+Producer:Marya Heimlich
+Minimum price:1880
+Maximum price:28519
+Type:adult
+Genre:drama
+Theater:Rose Theatre
+Performance:Violet
+Producer:Vanetta Peroutka
+Minimum price:7218
+Maximum price:43869
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:play
+Theater:Palace of Fine Arts
+Performance:Altar Boys
+Producer:Slyvia Yousif
+Minimum price:8304
+Maximum price:25421
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:play
+Theater:Mariinsky Theatre
+Performance:My Fair Lady
+Producer:Marta Roehrick
+Minimum price:4893
+Maximum price:35044
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:fairy tale
+Theater:Moscow Art Theatre
+Performance:Annie
+Producer:Emilio Gandarilla
+Minimum price:4407
+Maximum price:15733
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:fairy tale
+Theater:Palace of Fine Arts
+Performance:Salad Days
+Producer:Renetta Gunsolley
+Minimum price:9575
+Maximum price:35183
+Type:adult
+Genre:drama
+Theater:Pasadena Playhouse
+Performance:American Idiot
+Producer:Jeana Mcgranor
+Minimum price:5234
+Maximum price:38120
+Type:child
+Minimum age:2
+Maximum age:4
+Genre:play
+Theater:Red Bull Theatre
+Performance:The Band
+Producer:Blake Orgill
+Minimum price:8476
+Maximum price:49736
+Type:adult
+Genre:drama
+Theater:South Bank
+Performance:Into the Woods
+Producer:Jerrold Nouri
+Minimum price:4725
+Maximum price:28071
+Type:child
+Minimum age:1
+Maximum age:7
+Genre:fairy tale
+Theater:Kamerny Theatre
+Performance:Rocky the Musical
+Producer:Sheree Geidner
+Minimum price:2012
+Maximum price:31947
+Type:adult
+Genre:drama
+Theater:Swan Theatre
+Performance:Big Fish
+Producer:Lidia Wineberg
+Minimum price:3336
+Maximum price:16234
+Type:musical
+Composer:Nathan Milstein
+Country:Monaco
+Minimum age:4
+Duration:150
+Theater:Sydney Opera House
+Performance:Raisin
+Producer:Georgina Schuman
+Minimum price:7328
+Maximum price:45022
+Type:musical
+Composer:Kirke Mechem
+Country:Haiti
+Minimum age:3
+Duration:173
+Theater:South Bank
+Performance:The Pajama Game
+Producer:Karole Klinnert
+Minimum price:7713
+Maximum price:10677
+Type:adult
+Genre:play
+Theater:Red Bull Theatre
+Performance:Six
+Producer:Myrtice Trampe
+Minimum price:1288
+Maximum price:21113
+Type:child
+Minimum age:3
+Maximum age:7
+Genre:play
+Theater:Boar’s Head Inn
+Performance:Color Purple, The
+Producer:Brian Masello
+Minimum price:1741
+Maximum price:31619
+Type:child
+Minimum age:2
+Maximum age:5
+Genre:play
+Theater:Lyceum Theatre
+Performance:Anything Goes
+Producer:Melina Zubik
+Minimum price:7594
+Maximum price:21387
+Type:adult
+Genre:drama
+Theater:Gate Theatre
+Performance:9 to 5: The Musical
+Producer:Chris Starnaud
+Minimum price:2443
+Maximum price:33987
+Type:musical
+Composer:Alan Hovhaness
+Country:Malaysia
+Minimum age:0
+Duration:104
+Theater:Swan Theatre
+Performance:Murder Ballad
+Producer:Jazmine Suet
+Minimum price:8899
+Maximum price:44267
+Type:child
+Minimum age:2
+Maximum age:4
+Genre:play
+Theater:Fortune Theatre
+Performance:Jersey Boys
+Producer:Quentin Delnegro
+Minimum price:7220
+Maximum price:11541
+Type:musical
+Composer:Kurt Weill
+Country:Malaysia
+Minimum age:2
+Duration:129
+Theater:Moscow Art Theatre
+Performance:Sweeney Todd
+Producer:Timika Benito
+Minimum price:1042
+Maximum price:44559
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:play
+Theater:Moscow Art Theatre
+Performance:Dreamgirls
+Producer:Kirstie Gubitosi
+Minimum price:2837
+Maximum price:38956
+Type:musical
+Composer:Eduard Tubin
+Country:Lebanon
+Minimum age:4
+Duration:180
+Theater:Whitefriars Theatre
+Performance:Tick Tick Boom
+Producer:Elsy Dern
+Minimum price:1616
+Maximum price:19010
+Type:adult
+Genre:drama
+Theater:Royal Opera House
+Performance:Parade
+Producer:Mel Bernand
+Minimum price:4517
+Maximum price:23948
+Type:child
+Minimum age:0
+Maximum age:4
+Genre:play
+Theater:Curtain Theatre
+Performance:Finian's Rainbow
+Producer:Delphine Furkin
+Minimum price:5691
+Maximum price:16089
+Type:musical
+Composer:Oedoen Partos
+Country:Trinidad and Tobago
+Minimum age:3
+Duration:162
+Theater:Rose Theatre
+Performance:It Shoulda Been You
+Producer:Rosetta Mashack
+Minimum price:8764
+Maximum price:17109
+Type:musical
+Composer:Roger Nixon
+Country:Bulgaria
+Minimum age:1
+Duration:155
+Theater:Rose Theatre
+Performance:Miss Saigon
+Producer:Louann Rhame
+Minimum price:6641
+Maximum price:21380
+Type:child
+Minimum age:1
+Maximum age:5
+Genre:fairy tale
+Theater:Theatre of Dionysus
+Performance:Bring It On
+Producer:Adena Rehmann
+Minimum price:2614
+Maximum price:18832
+Type:child
+Minimum age:1
+Maximum age:4
+Genre:play
+Theater:Theatre of Dionysus
+Performance:Violet
+Producer:Daphne Goodly
+Minimum price:8989
+Maximum price:29642
+Type:musical
+Composer:Jean Françaix
+Country:Sierra Leone
+Minimum age:5
+Duration:106
+Theater:Fortune Theatre
+Performance:I Love You Because
+Producer:Livia Stawarz
+Minimum price:6686
+Maximum price:35364
+Type:adult
+Genre:play
+Theater:Apollo Theater
+Performance:Miss Saigon
+Producer:Fransisca Garuti
+Minimum price:9627
+Maximum price:27934
+Type:musical
+Composer:Leonard Bernstein
+Country:Moldova
+Minimum age:2
+Duration:172
+Theater:Apollo Theater
+Performance:Legally Blonde
+Producer:Austin Cavicchi
+Minimum price:3694
+Maximum price:32904
+Type:adult
+Genre:play
+Theater:Palace of Fine Arts
+Performance:Addams Family
+Producer:Scot Meachum
+Minimum price:3991
+Maximum price:17810
+Type:child
+Minimum age:1
+Maximum age:5
+Genre:play
+Theater:The Theatre
+Performance:Peter Pan
+Producer:Stephanie Kappelmann
+Minimum price:3359
+Maximum price:14388
+Type:musical
+Composer:Milan Kymlicka
+Country:Maldives
+Minimum age:2
+Duration:159
+Theater:Pasadena Playhouse
+Performance:Jagged Little Pill
+Producer:Melony Dore
+Minimum price:5630
+Maximum price:20495
+Type:child
+Minimum age:1
+Maximum age:4
+Genre:play
+Theater:Sydney Opera House
+Performance:Company
+Producer:Terri Loge
+Minimum price:9878
+Maximum price:25289
+Type:musical
+Composer:Vagn Holmboe
+Country:Mayotte
+Minimum age:4
+Duration:112
+Theater:Mariinsky Theatre
+Performance:Follies
+Producer:Lana Hoppa
+Minimum price:2778
+Maximum price:42391
+Type:child
+Minimum age:0
+Maximum age:6
+Genre:fairy tale
+Theater:Blackfriars Theatre
+Performance:Matilda
+Producer:Yoshie Legree
+Minimum price:6038
+Maximum price:16579
+Type:child
+Minimum age:1
+Maximum age:7
+Genre:fairy tale
+Theater:Blackfriars Theatre
+Performance:War Paint
+Producer:Lura Hutchenson
+Minimum price:8406
+Maximum price:48781
+Type:musical
+Composer:Ron Nelson
+Country:Cabo Verde
+Minimum age:2
+Duration:159
+Theater:Royal Opera House
+Performance:Hamilton (musical)
+Producer:Wilbert Higgason
+Minimum price:489
+Maximum price:41171
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:fairy tale
+Theater:Blackfriars Theatre
+Performance:Flower Drum Song
+Producer:Lindsey Curnutt
+Minimum price:4849
+Maximum price:28015
+Type:child
+Minimum age:0
+Maximum age:4
+Genre:fairy tale
+Theater:Lyceum Theatre
+Performance:Next to Normal
+Producer:Felicitas Blas
+Minimum price:612
+Maximum price:20355
+Type:musical
+Composer:Peter Mennin
+Country:Gambia
+Minimum age:0
+Duration:149
+Theater:Apollo Theater
+Performance:Oliver!
+Producer:Vivienne Skinsacos
+Minimum price:6386
+Maximum price:43955
+Type:musical
+Composer:Carlos Surinach
+Country:Norway
+Minimum age:4
+Duration:166
+Theater:Royal Opera House
+Performance:Bandstand
+Producer:Tiara Leys
+Minimum price:8003
+Maximum price:14636
+Type:adult
+Genre:drama
+Theater:Sydney Opera House
+Performance:Pal Joey
+Producer:Chanelle Mcelwaine
+Minimum price:2560
+Maximum price:20136
+Type:adult
+Genre:play
+Theater:Whitefriars Theatre
+Performance:Aladdin
+Producer:Marita Rudasill
+Minimum price:1492
+Maximum price:33134
+Type:adult
+Genre:comedy
+Theater:Sydney Opera House
+Performance:Bandstand
+Producer:Belkis Devaul
+Minimum price:9387
+Maximum price:21094
+Type:adult
+Genre:play
+Theater:The Theatre
+Performance:Les Misérables
+Producer:Lowell Gobert
+Minimum price:4380
+Maximum price:20163
+Type:child
+Minimum age:3
+Maximum age:7
+Genre:play
+Theater:La Scala
+Performance:Can Can
+Producer:Azucena Gaspar
+Minimum price:3775
+Maximum price:28520
+Type:musical
+Composer:Vagn Holmboe
+Country:Finland
+Minimum age:2
+Duration:147
+Theater:Rose Theatre
+Performance:Next to Normal
+Producer:Elizebeth Chillemi
+Minimum price:1056
+Maximum price:26810
+Type:musical
+Composer:Eduard Tubin
+Country:State of Palestine
+Minimum age:4
+Duration:130
+Theater:Mariinsky Theatre
+Performance:Taboo
+Producer:Latoya Mosman
+Minimum price:6102
+Maximum price:27361
+Type:musical
+Composer:Dag Ivar Wiren
+Country:Azerbaijan
+Minimum age:1
+Duration:199
+Theater:Mariinsky Theatre
+Performance:Cats
+Producer:Vilma Renick
+Minimum price:3234
+Maximum price:30467
+Type:child
+Minimum age:3
+Maximum age:7
+Genre:fairy tale
+Theater:Swan Theatre
+Performance:The Last Ship
+Producer:Tilda Montuori
+Minimum price:8452
+Maximum price:19727
+Type:adult
+Genre:drama
+Theater:Lyceum Theatre
+Performance:Shout!
+Producer:Spring Gandia
+Minimum price:9013
+Maximum price:41678
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:play
+Theater:Moscow Art Theatre
+Performance:Saturday Night Fever
+Producer:Lyndsay Bienek
+Minimum price:9128
+Maximum price:34307
+Type:adult
+Genre:comedy
+Theater:Mariinsky Theatre
+Performance:New Girl in Town
+Producer:Mistie Cordel
+Minimum price:2922
+Maximum price:20832
+Type:child
+Minimum age:3
+Maximum age:7
+Genre:fairy tale
+Theater:Swan Theatre
+Performance:Oh, Coward!
+Producer:Keira Cleark
+Minimum price:3931
+Maximum price:49621
+Type:child
+Minimum age:3
+Maximum age:5
+Genre:play
+Theater:Globe Theatre
+Performance:Victor/Victoria
+Producer:Starr Keddy
+Minimum price:2224
+Maximum price:31676
+Type:adult
+Genre:comedy
+Theater:Fortune Theatre
+Performance:Paint Your Wagon
+Producer:Omega Chounlapane
+Minimum price:3281
+Maximum price:32132
+Type:adult
+Genre:comedy
+Theater:Rose Theatre
+Performance:White Christmas
+Producer:Keturah Carucci
+Minimum price:7891
+Maximum price:17046
+Type:musical
+Composer:Henri Dutilleux
+Country:Germany
+Minimum age:2
+Duration:131
+Theater:Red Bull Theatre
+Performance:Mamma Mia
+Producer:Lesia Wieboldt
+Minimum price:9137
+Maximum price:30471
+Type:musical
+Composer:Gerald Finzi
+Country:Barbados
+Minimum age:3
+Duration:147
+Theater:Fortune Theatre
+Performance:The Magic Show
+Producer:Ludie Fulham
+Minimum price:6359
+Maximum price:18676
+Type:musical
+Composer:Ronald Binge
+Country:Dominica
+Minimum age:0
+Duration:129
+Theater:Sydney Opera House
+Performance:Flora the Red Menace
+Producer:Wally Tufo
+Minimum price:5711
+Maximum price:46704
+Type:musical
+Composer:Frank Perkins
+Country:Qatar
+Minimum age:2
+Duration:173
+Theater:Palace of Fine Arts
+Performance:Babes in Arms
+Producer:Elizabet Milstein
+Minimum price:9585
+Maximum price:41188
+Type:adult
+Genre:play
+Theater:Gate Theatre
+Performance:Applause
+Producer:Vicki Palisi
+Minimum price:2980
+Maximum price:49961
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:fairy tale
+Theater:The Cockpit
+Performance:Rocky Horror Show
+Producer:Gertude Sarac
+Minimum price:7607
+Maximum price:11859
+Type:adult
+Genre:comedy
+Theater:Swan Theatre
+Performance:Come from away
+Producer:Noella Ragland
+Minimum price:2395
+Maximum price:13491
+Type:adult
+Genre:drama
+Theater:Sydney Opera House
+Performance:Angels in America
+Producer:Takisha Kimbel
+Minimum price:2892
+Maximum price:31553
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:play
+Theater:Globe Theatre
+Performance:Allegro
+Producer:Desmond Kothakota
+Minimum price:5303
+Maximum price:37827
+Type:musical
+Composer:Gian Carlo Menotti
+Country:DR Congo
+Minimum age:0
+Duration:151
+Theater:South Bank
+Performance:Cabaret
+Producer:Eda Rotter
+Minimum price:4202
+Maximum price:34714
+Type:adult
+Genre:comedy
+Theater:Swan Theatre
+Performance:The Who's Tommy
+Producer:Art Digiouanni
+Minimum price:1141
+Maximum price:31948
+Type:child
+Minimum age:1
+Maximum age:7
+Genre:fairy tale
+Theater:Kamerny Theatre
+Performance:The Boy from Oz
+Producer:Melissia Lagrange
+Minimum price:3845
+Maximum price:45329
+Type:musical
+Composer:Jean Françaix
+Country:Seychelles
+Minimum age:5
+Duration:105
+Theater:Theatre of Dionysus
+Performance:Wesele
+Producer:Rebekah Failla
+Minimum price:4859
+Maximum price:45406
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:play
+Theater:Vienna State Opera
+Performance:Pippin
+Producer:Jarred Scruggs
+Minimum price:3430
+Maximum price:32028
+Type:musical
+Composer:Howard Ferguson
+Country:Dominica
+Minimum age:5
+Duration:192
+Theater:Theatre of Dionysus
+Performance:Bring It On
+Producer:Gilda Groos
+Minimum price:7825
+Maximum price:34322
+Type:musical
+Composer:David Diamond
+Country:Thailand
+Minimum age:2
+Duration:173
+Theater:Boar’s Head Inn
+Performance:Pipe Dream
+Producer:Lavonda Vollenweider
+Minimum price:7385
+Maximum price:40798
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:play
+Theater:Kamerny Theatre
+Performance:Ain't Too Proud
+Producer:Velia Woock
+Minimum price:7090
+Maximum price:28242
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:play
+Theater:Sydney Opera House
+Performance:Pippin
+Producer:Devora Lestor
+Minimum price:8722
+Maximum price:19178
+Type:musical
+Composer:Bernard Stevens
+Country:Hungary
+Minimum age:3
+Duration:177
+Theater:Old Vic
+Performance:We Will Rock You
+Producer:Mee Gillard
+Minimum price:6868
+Maximum price:17414
+Type:adult
+Genre:comedy
+Theater:Vienna State Opera
+Performance:Something Rotten
+Producer:Dione Lepe
+Minimum price:3967
+Maximum price:30071
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:fairy tale
+Theater:Pasadena Playhouse
+Performance:Groundhog Day
+Producer:Ophelia Gillan
+Minimum price:2333
+Maximum price:16786
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:fairy tale
+Theater:The Theatre
+Performance:The Threepenny Opera
+Producer:Brady Billingham
+Minimum price:1919
+Maximum price:11390
+Type:musical
+Composer:Douglas Lilburn
+Country:Antigua and Barbuda
+Minimum age:1
+Duration:114
+Theater:The Cockpit
+Performance:Peter Pan
+Producer:Yevette Bucholz
+Minimum price:2747
+Maximum price:30490
+Type:child
+Minimum age:2
+Maximum age:5
+Genre:play
+Theater:Pasadena Playhouse
+Performance:Dreamgirls
+Producer:Dominque Demos
+Minimum price:9712
+Maximum price:39594
+Type:child
+Minimum age:3
+Maximum age:7
+Genre:play
+Theater:The Cockpit
+Performance:Bandstand
+Producer:Adriane Hanenberger
+Minimum price:5033
+Maximum price:17652
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:fairy tale
+Theater:Swan Theatre
+Performance:It Shoulda Been You
+Producer:Shantel Singler
+Minimum price:6051
+Maximum price:12742
+Type:musical
+Composer:Miklós Rózsa
+Country:Algeria
+Minimum age:5
+Duration:152
+Theater:Lyceum Theatre
+Performance:The Book of Mormon
+Producer:Agripina Holderfield
+Minimum price:7727
+Maximum price:15534
+Type:adult
+Genre:drama
+Theater:The Theatre
+Performance:Heathers
+Producer:Gail Felsenthal
+Minimum price:3511
+Maximum price:17537
+Type:adult
+Genre:play
+Theater:Globe Theatre
+Performance:Company
+Producer:Lashell Mounts
+Minimum price:1684
+Maximum price:34446
+Type:musical
+Composer:Dmitri Shostakovich
+Country:Iceland
+Minimum age:3
+Duration:102
+Theater:Mariinsky Theatre
+Performance:State Fair
+Producer:Kum Montijo
+Minimum price:4158
+Maximum price:20957
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:play
+Theater:Drury Lane Theatre
+Performance:Murder Ballad
+Producer:Carmine Gladstone
+Minimum price:6693
+Maximum price:38747
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:fairy tale
+Theater:Gate Theatre
+Performance:Smokey Joe's Café
+Producer:Alphonse Fillare
+Minimum price:8662
+Maximum price:26525
+Type:adult
+Genre:comedy
+Theater:Lyceum Theatre
+Performance:Carnival
+Producer:Winona Maschio
+Minimum price:9147
+Maximum price:23035
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:fairy tale
+Theater:Drury Lane Theatre
+Performance:Spring Awakening
+Producer:Malcom Aprigliano
+Minimum price:5158
+Maximum price:15140
+Type:adult
+Genre:play
+Theater:Curtain Theatre
+Performance:Mamma Mia
+Producer:Irma Saka
+Minimum price:1161
+Maximum price:25581
+Type:musical
+Composer:Kurt Weill
+Country:United Kingdom
+Minimum age:5
+Duration:120
+Theater:Old Vic
+Performance:Starmites
+Producer:Lindsy Jacobsen
+Minimum price:220
+Maximum price:30074
+Type:child
+Minimum age:0
+Maximum age:5
+Genre:play
+Theater:Abbey Theatre
+Performance:Peter Pan
+Producer:Tisha Cadwell
+Minimum price:6571
+Maximum price:10300
+Type:adult
+Genre:drama
+Theater:Hope Theatre
+Performance:Lion King
+Producer:Chau Roebke
+Minimum price:3498
+Maximum price:43878
+Type:child
+Minimum age:0
+Maximum age:6
+Genre:fairy tale
+Theater:Swan Theatre
+Performance:Holiday Inn
+Producer:Ed Revier
+Minimum price:2398
+Maximum price:28322
+Type:musical
+Composer:Emanuel Elenescu
+Country:Azerbaijan
+Minimum age:0
+Duration:113
+Theater:Globe Theatre
+Performance:The Band's Visit
+Producer:Lahoma Girauard
+Minimum price:5361
+Maximum price:19204
+Type:musical
+Composer:Werner Wolf Glaser
+Country:Luxembourg
+Minimum age:4
+Duration:169
+Theater:Boar’s Head Inn
+Performance:Happy Days
+Producer:Nadene Barnicle
+Minimum price:6528
+Maximum price:16871
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:fairy tale
+Theater:South Bank
+Performance:The Last Ship
+Producer:Alysa Maclean
+Minimum price:1544
+Maximum price:21872
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:fairy tale
+Theater:Boar’s Head Inn
+Performance:Fiorello!
+Producer:Mirian Boufford
+Minimum price:9495
+Maximum price:41165
+Type:musical
+Composer:Veljo Tormis
+Country:Algeria
+Minimum age:0
+Duration:161
+Theater:Kamerny Theatre
+Performance:Glass Menagerie, The
+Producer:Gudrun Fridley
+Minimum price:7089
+Maximum price:36370
+Type:child
+Minimum age:0
+Maximum age:5
+Genre:fairy tale
+Theater:Teatro Farnese
+Performance:Mrs. Doubtfire
+Producer:Saundra Brine
+Minimum price:3463
+Maximum price:46052
+Type:musical
+Composer:Harold Truscott
+Country:Canada
+Minimum age:4
+Duration:120
+Theater:Hope Theatre
+Performance:Honk!
+Producer:Lavone Nelsen
+Minimum price:8042
+Maximum price:15539
+Type:adult
+Genre:drama
+Theater:The Theatre
+Performance:Legally Blonde
+Producer:Leonida Mayes
+Minimum price:9075
+Maximum price:18872
+Type:child
+Minimum age:3
+Maximum age:7
+Genre:play
+Theater:Sydney Opera House
+Performance:Pippin
+Producer:Quiana Pesh
+Minimum price:3430
+Maximum price:37677
+Type:adult
+Genre:play
+Theater:Teatro Farnese
+Performance:On the Verge
+Producer:Michaela Tartaglia
+Minimum price:8984
+Maximum price:31360
+Type:adult
+Genre:comedy
+Theater:Schouwburg
+Performance:Waitress (musical)
+Producer:Celestina Baumiester
+Minimum price:9630
+Maximum price:26489
+Type:child
+Minimum age:3
+Maximum age:5
+Genre:play
+Theater:Palace of Fine Arts
+Performance:Drowsy Chaperone
+Producer:Zachery Culwell
+Minimum price:5221
+Maximum price:21411
+Type:adult
+Genre:play
+Theater:Hope Theatre
+Performance:Into the Woods
+Producer:Lindsey Leadingham
+Minimum price:8372
+Maximum price:38134
+Type:musical
+Composer:Dmitri Shostakovich
+Country:Channel Islands
+Minimum age:3
+Duration:154
+Theater:Sydney Opera House
+Performance:State Fair
+Producer:Slyvia Rostek
+Minimum price:501
+Maximum price:34398
+Type:adult
+Genre:comedy
+Theater:Teatro Farnese
+Performance:Lion King
+Producer:Mana Berwick
+Minimum price:1365
+Maximum price:18203
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:fairy tale
+Theater:The Cockpit
+Performance:42nd Street
+Producer:Anastasia Otts
+Minimum price:6172
+Maximum price:13320
+Type:musical
+Composer:John Antill
+Country:Eswatini
+Minimum age:0
+Duration:120
+Theater:La Scala
+Performance:Inherit the Wind
+Producer:Rico Scianna
+Minimum price:5259
+Maximum price:21788
+Type:child
+Minimum age:2
+Maximum age:5
+Genre:play
+Theater:Theatre of Dionysus
+Performance:Ballroom
+Producer:Cortney Krasner
+Minimum price:5387
+Maximum price:15705
+Type:adult
+Genre:play
+Theater:South Bank
+Performance:Ruthless
+Producer:Evonne Szpak
+Minimum price:7894
+Maximum price:26039
+Type:musical
+Composer:Richard Addinsell
+Country:Botswana
+Minimum age:2
+Duration:170
+Theater:Schouwburg
+Performance:Mean Girls
+Producer:Yetta Yorn
+Minimum price:1584
+Maximum price:29096
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:play
+Theater:Mariinsky Theatre
+Performance:Death of a Salesman
+Producer:Nereida Hinz
+Minimum price:2248
+Maximum price:30491
+Type:child
+Minimum age:1
+Maximum age:7
+Genre:play
+Theater:Boar’s Head Inn
+Performance:Hallelujah Baby!
+Producer:Oralee Knerien
+Minimum price:8086
+Maximum price:37363
+Type:musical
+Composer:Henri Dutilleux
+Country:Armenia
+Minimum age:0
+Duration:183
+Theater:Abbey Theatre
+Performance:Fame
+Producer:Latesha Scully
+Minimum price:3285
+Maximum price:40414
+Type:child
+Minimum age:0
+Maximum age:5
+Genre:play
+Theater:Apollo Theater
+Performance:Scandalous
+Producer:Socorro Hasychak
+Minimum price:2346
+Maximum price:37238
+Type:musical
+Composer:Dag Ivar Wiren
+Country:Namibia
+Minimum age:0
+Duration:149
+Theater:Apollo Theater
+Performance:Chicago
+Producer:Ena Yekel
+Minimum price:6522
+Maximum price:44587
+Type:musical
+Composer:Richard Rodgers
+Country:Chile
+Minimum age:0
+Duration:116
+Theater:The Cockpit
+Performance:Death of a Salesman
+Producer:Ulrike Swaynos
+Minimum price:6386
+Maximum price:49796
+Type:adult
+Genre:comedy
+Theater:Swan Theatre
+Performance:The Who's Tommy
+Producer:Laurine Cosier
+Minimum price:9543
+Maximum price:18893
+Type:child
+Minimum age:0
+Maximum age:7
+Genre:play
+Theater:Old Vic
+Performance:Once on This Island
+Producer:Jeromy Hutchison
+Minimum price:6570
+Maximum price:28505
+Type:musical
+Composer:Henri Dutilleux
+Country:Guinea
+Minimum age:0
+Duration:198
+Theater:Drury Lane Theatre
+Performance:Cry-Baby
+Producer:Angelo Egland
+Minimum price:5502
+Maximum price:12449
+Type:musical
+Composer:Bernard Herrmann
+Country:Maldives
+Minimum age:1
+Duration:190
+Theater:Rose Theatre
+Performance:Ain't Misbehavin'
+Producer:Modesta Latos
+Minimum price:8014
+Maximum price:16299
+Type:adult
+Genre:play
+Theater:Fortune Theatre
+Performance:Paint Your Wagon
+Producer:Becky Chaberek
+Minimum price:8114
+Maximum price:33983
+Type:adult
+Genre:comedy
+Theater:La Scala
+Performance:Titanic
+Producer:Isaias Vanscoter
+Minimum price:2719
+Maximum price:16705
+Type:child
+Minimum age:1
+Maximum age:4
+Genre:play
+Theater:Whitefriars Theatre
+Performance:Rent
+Producer:Alba Lachermeier
+Minimum price:5807
+Maximum price:25415
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:play
+Theater:Theatre of Dionysus
+Performance:The Color Purple
+Producer:Hildegarde Tsuruda
+Minimum price:7532
+Maximum price:49864
+Type:musical
+Composer:Benjamin Frankel
+Country:Kuwait
+Minimum age:0
+Duration:195
+Theater:Mariinsky Theatre
+Performance:Babes in Toyland
+Producer:Alpha Boza
+Minimum price:5846
+Maximum price:31161
+Type:adult
+Genre:drama
+Theater:Curtain Theatre
+Performance:Little Women
+Producer:Winford Bethell
+Minimum price:4324
+Maximum price:17894
+Type:child
+Minimum age:2
+Maximum age:5
+Genre:play
+Theater:Schouwburg
+Performance:New York, New York
+Producer:Christopher Colberg
+Minimum price:3741
+Maximum price:49541
+Type:musical
+Composer:Peter Mennin
+Country:Andorra
+Minimum age:4
+Duration:112
+Theater:Pasadena Playhouse
+Performance:An American in Paris
+Producer:Mariela Peightal
+Minimum price:7371
+Maximum price:49880
+Type:adult
+Genre:drama
+Theater:Red Bull Theatre
+Performance:George M.
+Producer:Miriam Ramos
+Minimum price:5548
+Maximum price:47164
+Type:musical
+Composer:Robert Simpson
+Country:North Macedonia
+Minimum age:1
+Duration:192
+Theater:Blackfriars Theatre
+Performance:Carrie
+Producer:Chloe Mccartney
+Minimum price:2854
+Maximum price:43926
+Type:musical
+Composer:Miklós Rózsa
+Country:South Africa
+Minimum age:4
+Duration:168
+Theater:South Bank
+Performance:Bells are Ringing
+Producer:Eldon Ropac
+Minimum price:6435
+Maximum price:18529
+Type:musical
+Composer:Aaron Copland
+Country:Belize
+Minimum age:4
+Duration:159
+Theater:Old Vic
+Performance:Kismet
+Producer:Ching Liendo
+Minimum price:2097
+Maximum price:36590
+Type:child
+Minimum age:0
+Maximum age:7
+Genre:play
+Theater:Teatro Farnese
+Performance:Copacabana
+Producer:Rubin Wineinger
+Minimum price:9426
+Maximum price:35644
+Type:adult
+Genre:drama
+Theater:Palace of Fine Arts
+Performance:Camelot
+Producer:Ernestina Kumalaa
+Minimum price:4799
+Maximum price:29877
+Type:adult
+Genre:drama
+Theater:Teatro Farnese
+Performance:Saturday Night Fever
+Producer:Trudi Urive
+Minimum price:4535
+Maximum price:13728
+Type:adult
+Genre:drama
+Theater:Kamerny Theatre
+Performance:The Wiz
+Producer:Bambi Gros
+Minimum price:6144
+Maximum price:48382
+Type:musical
+Composer:Alan Rawsthorne
+Country:Kazakhstan
+Minimum age:4
+Duration:144
+Theater:Hope Theatre
+Performance:Damn Yankees
+Producer:Marhta Mulkey
+Minimum price:3686
+Maximum price:27187
+Type:adult
+Genre:comedy
+Theater:Abbey Theatre
+Performance:Wicked (musical)
+Producer:Donna Jette
+Minimum price:3932
+Maximum price:44403
+Type:child
+Minimum age:1
+Maximum age:5
+Genre:play
+Theater:Abbey Theatre
+Performance:George M.
+Producer:Dion Tardio
+Minimum price:4014
+Maximum price:49274
+Type:musical
+Composer:Ida Presti
+Country:Taiwan
+Minimum age:0
+Duration:106
+Theater:Pasadena Playhouse
+Performance:Allegiance
+Producer:Catarina Vanterpool
+Minimum price:2492
+Maximum price:35437
+Type:musical
+Composer:Alan Hovhaness
+Country:Gambia
+Minimum age:5
+Duration:187
+Theater:Drury Lane Theatre
+Performance:Rock of Ages
+Producer:Patrina Comee
+Minimum price:2051
+Maximum price:45072
+Type:musical
+Composer:Kirke Mechem
+Country:Uganda
+Minimum age:2
+Duration:153
+Theater:Sydney Opera House
+Performance:Steel Magnolias
+Producer:Markita Mancherian
+Minimum price:1152
+Maximum price:14727
+Type:adult
+Genre:play
+Theater:Drury Lane Theatre
+Performance:Bye Bye Birdie
+Producer:Kristin Asch
+Minimum price:7741
+Maximum price:11973
+Type:musical
+Composer:Alan Rawsthorne
+Country:Japan
+Minimum age:5
+Duration:175
+Theater:Drury Lane Theatre
+Performance:Dames at Sea
+Producer:Sharie Toppi
+Minimum price:1110
+Maximum price:42968
+Type:musical
+Composer:Pierre Gallant
+Country:Burundi
+Minimum age:0
+Duration:200
+Theater:Vienna State Opera
+Performance:My Fair Lady
+Producer:Phylis Swelgart
+Minimum price:2314
+Maximum price:30573
+Type:adult
+Genre:comedy
+Theater:Red Bull Theatre
+Performance:The Threepenny Opera
+Producer:Felipe Brick
+Minimum price:6097
+Maximum price:11485
+Type:adult
+Genre:drama
+Theater:Pasadena Playhouse
+Performance:Shrek the Musical
+Producer:Winnifred Rentoulis
+Minimum price:2720
+Maximum price:31040
+Type:child
+Minimum age:0
+Maximum age:4
+Genre:fairy tale
+Theater:Mariinsky Theatre
+Performance:Sound of Music
+Producer:Melina Berkhimer
+Minimum price:753
+Maximum price:19391
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:play
+Theater:Moscow Art Theatre
+Performance:American Psycho
+Producer:Tonie Machowski
+Minimum price:4557
+Maximum price:23278
+Type:musical
+Composer:Reinhard Febel
+Country:Gibraltar
+Minimum age:3
+Duration:142
+Theater:South Bank
+Performance:Murder Ballad
+Producer:Justine Millerr
+Minimum price:1782
+Maximum price:11139
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:play
+Theater:Swan Theatre
+Performance:Pippin
+Producer:Marg Belcastro
+Minimum price:319
+Maximum price:46837
+Type:adult
+Genre:comedy
+Theater:South Bank
+Performance:Tootsie
+Producer:Akilah Shybut
+Minimum price:5589
+Maximum price:20017
+Type:musical
+Composer:Michael Dewar Head
+Country:Bolivia
+Minimum age:5
+Duration:110
+Theater:Rose Theatre
+Performance:Swingtime
+Producer:Filomena Nora
+Minimum price:9178
+Maximum price:27575
+Type:child
+Minimum age:0
+Maximum age:4
+Genre:fairy tale
+Theater:Apollo Theater
+Performance:Free As Air
+Producer:Christopher Ristau
+Minimum price:4337
+Maximum price:10125
+Type:adult
+Genre:drama
+Theater:Mariinsky Theatre
+Performance:Anything Goes
+Producer:Alexa Fraser
+Minimum price:6058
+Maximum price:38882
+Type:musical
+Composer:Kurt Weill
+Country:Peru
+Minimum age:4
+Duration:126
+Theater:Globe Theatre
+Performance:Wonderland
+Producer:Israel Gushwa
+Minimum price:3301
+Maximum price:10180
+Type:child
+Minimum age:3
+Maximum age:4
+Genre:play
+Theater:Rose Theatre
+Performance:Hamilton (musical)
+Producer:Aurelio Laing
+Minimum price:7680
+Maximum price:19210
+Type:adult
+Genre:play
+Theater:South Bank
+Performance:Garfield
+Producer:Jed Smolensky
+Minimum price:6799
+Maximum price:35346
+Type:child
+Minimum age:3
+Maximum age:5
+Genre:play
+Theater:Whitefriars Theatre
+Performance:School of Rock
+Producer:Debroah Rothery
+Minimum price:2649
+Maximum price:34968
+Type:adult
+Genre:comedy
+Theater:Mariinsky Theatre
+Performance:Aladdin
+Producer:Claudie Elbogen
+Minimum price:4036
+Maximum price:10579
+Type:adult
+Genre:drama
+Theater:Red Bull Theatre
+Performance:Kiss Me Kate
+Producer:Brant Pfnister
+Minimum price:4162
+Maximum price:23961
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:play
+Theater:Lyceum Theatre
+Performance:Kismet
+Producer:Bryon Farria
+Minimum price:7770
+Maximum price:17935
+Type:musical
+Composer:Ron Nelson
+Country:Côte d'Ivoire
+Minimum age:0
+Duration:114
+Theater:Boar’s Head Inn
+Performance:Parade
+Producer:Barrie Sughrue
+Minimum price:1711
+Maximum price:15995
+Type:adult
+Genre:play
+Theater:Old Vic
+Performance:Spamalot
+Producer:Loise Church
+Minimum price:1414
+Maximum price:13917
+Type:musical
+Composer:Miklós Rózsa
+Country:Mayotte
+Minimum age:3
+Duration:191
+Theater:Gate Theatre
+Performance:Dangerous Game
+Producer:Hee Maloon
+Minimum price:5388
+Maximum price:28094
+Type:adult
+Genre:drama
+Theater:Swan Theatre
+Performance:Anastasia
+Producer:Pearlie Cordray
+Minimum price:1624
+Maximum price:36396
+Type:musical
+Composer:Olivier Messiaen
+Country:Guinea
+Minimum age:2
+Duration:196
+Theater:Whitefriars Theatre
+Performance:Big
+Producer:Rosamaria Baynes
+Minimum price:3896
+Maximum price:48704
+Type:adult
+Genre:comedy
+Theater:Palace of Fine Arts
+Performance:State Fair
+Producer:Hermelinda Slanker
+Minimum price:1230
+Maximum price:47302
+Type:adult
+Genre:drama
+Theater:Drury Lane Theatre
+Performance:On Your Feet
+Producer:Verdie Sapardanis
+Minimum price:304
+Maximum price:28434
+Type:musical
+Composer:Dmitri Shostakovich
+Country:United Arab Emirates
+Minimum age:1
+Duration:155
+Theater:Abbey Theatre
+Performance:Big River
+Producer:Kyong Cote
+Minimum price:111
+Maximum price:19332
+Type:child
+Minimum age:0
+Maximum age:4
+Genre:play
+Theater:Drury Lane Theatre
+Performance:Timeless
+Producer:Magdalene Sayloe
+Minimum price:4465
+Maximum price:30968
+Type:child
+Minimum age:1
+Maximum age:6
+Genre:fairy tale
+Theater:Drury Lane Theatre
+Performance:Cabaret
+Producer:Maia Ramnarase
+Minimum price:4597
+Maximum price:48006
+Type:child
+Minimum age:2
+Maximum age:6
+Genre:fairy tale
+Theater:Kamerny Theatre
+Performance:Hired Man
+Producer:Mia Manoni
+Minimum price:6493
+Maximum price:17489
+Type:adult
+Genre:play
+Theater:Vienna State Opera
+Performance:A Catered Affair
+Producer:Karey Dauria
+Minimum price:9987
+Maximum price:44790
+Type:musical
+Composer:Julius Chajes
+Country:Madagascar
+Minimum age:0
+Duration:198
+Theater:Blackfriars Theatre
+Performance:Sister Act
+Producer:Daron Chiong
+Minimum price:7269
+Maximum price:26608
+Type:musical
+Composer:Miklós Rózsa
+Country:Guinea-Bissau
+Minimum age:3
+Duration:100
+Theater:Moscow Art Theatre
+Performance:All About Me
+Producer:Eleonore Northam
+Minimum price:7654
+Maximum price:19043
+Type:musical
+Composer:Daniel Sternefeld
+Country:China
+Minimum age:4
+Duration:192
+Theater:The Cockpit
+Performance:Cinderella
+Producer:Myriam Wanberg
+Minimum price:3934
+Maximum price:47374
+Type:child
+Minimum age:0
+Maximum age:5
+Genre:fairy tale
+Theater:Old Vic
+Performance:Tarzan
+Producer:Antoinette Kalkman
+Minimum price:318
+Maximum price:36300
+Type:musical
+Composer:Ronald Binge
+Country:Namibia
+Minimum age:2
+Duration:136
+Theater:Abbey Theatre
+Performance:Sing Street
+Producer:Chi Mellow
+Minimum price:1788
+Maximum price:17432
+Type:musical
+Composer:Vaclav Nelhybel
+Country:Haiti
+Minimum age:0
+Duration:126
+Theater:La Scala
+Performance:Once Upon a Mattress
+Producer:Ciara Gudaitis
+Minimum price:9352
+Maximum price:11087
+Type:child
+Minimum age:3
+Maximum age:5
+Genre:fairy tale
+Theater:Vienna State Opera
+Performance:Catch Me If You Can
+Producer:Eufemia Sickafoose
+Minimum price:5257
+Maximum price:30493
+Type:child
+Minimum age:0
+Maximum age:4
+Genre:fairy tale
+Theater:Royal Opera House
+Performance:The Christmas Carol
+Producer:Jonah Hazinski
+Minimum price:5173
+Maximum price:11559
+Type:child
+Minimum age:3
+Maximum age:5
+Genre:fairy tale
+Theater:Blackfriars Theatre
+Performance:It Shoulda Been You
+Producer:Nora Wenciker
+Minimum price:5667
+Maximum price:37690
+Type:musical
+Composer:Roger Matton
+Country:Algeria
+Minimum age:2
+Duration:102
+Theater:The Cockpit
+Performance:Spring Awakening
+Producer:Takako Okeefe
+Minimum price:3798
+Maximum price:14552
+Type:adult
+Genre:drama
+Theater:Abbey Theatre
+Performance:Oh, Kay!
+Producer:Agustin Certalich
+Minimum price:3866
+Maximum price:19589
+Type:adult
+Genre:drama
+Theater:Globe Theatre
+Performance:Ain't Too Proud
+Producer:Ian Bigness
+Minimum price:4993
+Maximum price:36596
+Type:child
+Minimum age:1
+Maximum age:4
+Genre:fairy tale
+Theater:Gate Theatre
+Performance:Ziegfeld Follies
+Producer:Yuriko Lenhart
+Minimum price:7321
+Maximum price:36266
+Type:adult
+Genre:comedy
+Theater:Sydney Opera House
+Performance:Duchess of Malfi
+Producer:Clementine Zamora
+Minimum price:7197
+Maximum price:39473
+Type:adult
+Genre:play
+Theater:Blackfriars Theatre
+Performance:Addams Family
+Producer:Belinda Maddron
+Minimum price:4332
+Maximum price:40760
+Type:child
+Minimum age:2
+Maximum age:5
+Genre:fairy tale
+Theater:Whitefriars Theatre
+Performance:Big River
+Producer:Wendi Berfield
+Minimum price:9377
+Maximum price:23066
+Type:child
+Minimum age:2
+Maximum age:7
+Genre:play
+Theater:Rose Theatre
+Performance:Ruthless
+Producer:Keira Riglos
+Minimum price:1322
+Maximum price:42637
+Type:musical
+Composer:Paul Constantinescu
+Country:Burundi
+Minimum age:0
+Duration:128
+Theater:Royal Opera House
+Performance:First Date
+Producer:Regena Baumgarter
+Minimum price:5575
+Maximum price:42385
+Type:musical
+Composer:Hans Erich Apostel
+Country:Côte d'Ivoire
+Minimum age:1
+Duration:181
+Theater:Swan Theatre
+Performance:Copacabana
+Producer:Leandra Frankowski
+Minimum price:4101
+Maximum price:19124
+Type:adult
+Genre:comedy
+Theater:Theatre of Dionysus
+Performance:Call Me Madam
+Producer:Howard Axelson
+Minimum price:7487
+Maximum price:15482
+Type:musical
+Composer:Samuel Barber
+Country:Zimbabwe
+Minimum age:2
+Duration:102
+Theater:Rose Theatre
+Performance:Flora the Red Menace
+Producer:Emilio Debernardi
+Minimum price:874
+Maximum price:41473
+Type:musical
+Composer:Julian Orbon
+Country:Malta
+Minimum age:5
+Duration:138
+Theater:Theatre of Dionysus
+Performance:Blood Brothers
+Producer:Gisele Sakoda
+Minimum price:9200
+Maximum price:36967
+Type:musical
+Composer:Michael Gielen
+Country:Senegal
+Minimum age:3
+Duration:193
+Theater:The Cockpit
+Performance:Aida
+Producer:Stanton Kwang
+Minimum price:3564
+Maximum price:19302
+Type:adult
+Genre:comedy
+Theater:Moscow Art Theatre
+Performance:The Last Ship
+Producer:Dalene Huxhold
+Minimum price:3687
+Maximum price:28184
+Type:child
+Minimum age:2
+Maximum age:4
+Genre:play
+Theater:Whitefriars Theatre
+Performance:The Prom
+Producer:Starla Eskridge
+Minimum price:6818
+Maximum price:27844
+Type:musical
+Composer:Hugo Distler
+Country:Taiwan
+Minimum age:4
+Duration:122
+Theater:The Theatre
+Performance:On the Town
+Producer:Kandis Eberhard
+Minimum price:6289
+Maximum price:36293
+Type:adult
+Genre:comedy
+Theater:Royal Opera House
+Performance:Crazy For You
+Producer:Mika Malik
+Minimum price:7280
+Maximum price:25848
+Type:adult
+Genre:comedy
+Theater:Schouwburg
+Performance:Back to the Future
+Producer:Trudie Oja
+Minimum price:6602
+Maximum price:27604
+Type:musical
+Composer:Robert Muczynski
+Country:Russia
+Minimum age:0
+Duration:167
+Theater:Curtain Theatre
+Performance:Bring It On
+Producer:Rosina Brenowitz
+Minimum price:1139
+Maximum price:21054
+Type:musical
+Composer:Sir Lennox Berkeley
+Country:India
+Minimum age:2
+Duration:175
+Theater:Lyceum Theatre
+Performance:Aspects of Love
+Producer:Tu Bueler
+Minimum price:9138
+Maximum price:42111
+Type:adult
+Genre:play
+Theater:Hope Theatre
+Performance:Amelie
+Producer:Tisa Balceiro
+Minimum price:5327
+Maximum price:22105
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:play
+Theater:Vienna State Opera
+Performance:Carrie
+Producer:Margarett Lashua
+Minimum price:2137
+Maximum price:30557
+Type:musical
+Composer:Kirke Mechem
+Country:Armenia
+Minimum age:1
+Duration:170
+Theater:Pasadena Playhouse
+Performance:Hair: The Musical
+Producer:Marina Weil
+Minimum price:2564
+Maximum price:38193
+Type:musical
+Composer:Marcel Poot
+Country:Switzerland
+Minimum age:4
+Duration:136
+Theater:Vienna State Opera
+Performance:Ballroom
+Producer:Keva Kosmatka
+Minimum price:6989
+Maximum price:28274
+Type:child
+Minimum age:3
+Maximum age:6
+Genre:play
