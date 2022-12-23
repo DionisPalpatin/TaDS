@@ -10,6 +10,7 @@
 #include <matrix_sparse.h>
 #include <matrix_standard.h>
 #include <load_mtr.h>
+#include <io.h>
 
 
 unsigned long long milliseconds_now(void)
@@ -23,7 +24,7 @@ unsigned long long milliseconds_now(void)
 }
 
 
-void compare_multiplications(void)
+void compare_multiplications(int print_to_console)
 {
 	matrix_std_t mtr_std;
 	matrix_std_t vector_std;
@@ -47,53 +48,16 @@ void compare_multiplications(void)
 			(void) load_mtr_for_test(mtr_file_name, (int)(pers[j] * sizes[i] * sizes[i]), &mtr_sparse, &mtr_std);
 
 			init_sparse_matrix(&vector_sparse, sizes[i], 1);
-			(void) load_mtr_for_test(vec_file_name, (int)(pers[j] * sizes[i]), &vector_sparse, &vector_std);
+			(void) load_mtr_for_test(vec_file_name, (int)(pers[j] * sizes[i] * 1), &vector_sparse, &vector_std);
 
 			results[i][j] = run_test_std(&mtr_std, &vector_std);
 			results[i + 4][j] = run_test_sparse(&mtr_sparse, &vector_sparse);
 		}
 
-
-	// Выводим результат
-	printf("|---------------|----------|---------------------------------------------------|---------------------------------------------------|\n"
-		   "|   Sparcity    |          |            Standard matrix and vector             |             Sparse matrix and vector              |\n"
-		   "|    factor     |   What   |------------|------------|------------|------------|------------|------------|------------|------------|\n"
-		   "|               |          |   10x10    |   50x50    |  100x100   |  150x150   |   10x10    |   50x50    |  100x100   |  150x150   |\n"
-		   "|---------------|----------|------------|------------|------------|------------|------------|------------|------------|------------|\n");
-
-	for (int i = 0; i < 9; ++i)
-	{
-		printf("|               |Memory(b) |%12zu|%12zu|%12zu|%12zu|%12zu|%12zu|%12zu|%12zu|\n",
-			   sizeof(matrix_std_t), sizeof(matrix_std_t), sizeof(matrix_std_t), sizeof(matrix_std_t),
-			   sizeof(matrix_sparse_t), sizeof(matrix_sparse_t), sizeof(matrix_sparse_t), sizeof(matrix_sparse_t));
-		printf("|%15d|----------|------------|------------|------------|------------|------------|------------|------------|------------|\n", (int)(pers[i] * 100));
-		printf("|               |Time (ms) |%12Lf|%12Lf|%12Lf|%12Lf|%12Lf|%12Lf|%12Lf|%12Lf|\n",
-			   results[0][i], results[1][i], results[2][i], results[3][i], results[4][i], results[5][i], results[6][i], results[7][i]);
-		printf("|---------------|----------|------------|------------|------------|------------|------------|------------|------------|------------|\n");
-	}
-
-	printf("\n\n\n");
-	printf("|---------------|----------|---------------------------------------------------|\n"
-		   "|   Sparcity    |          |            Standard matrix and vector             |\n"
-		   "|    factor     |   What   |------------|------------|------------|------------|\n"
-		   "|               |          |   10x10    |   50x50    |  100x100   |  150x150   |\n"
-		   "|---------------|----------|------------|------------|------------|------------|\n");
-
-	for (int i = 0; i < 9; ++i)
-	{
-		printf("|               |Memory(b) |%12lf|%12lf|%12lf|%12lf|\n",
-			   (double)sizeof(matrix_std_t) / sizeof(matrix_sparse_t),
-			   (double)sizeof(matrix_std_t) / sizeof(matrix_sparse_t),
-			   (double)sizeof(matrix_std_t) / sizeof(matrix_sparse_t),
-			   (double)sizeof(matrix_std_t) / sizeof(matrix_sparse_t));
-		printf("|%15d|----------|------------|------------|------------|------------|\n", (int)(pers[i] * 100));
-		printf("|               |Time (ms) |%12Lf|%12Lf|%12Lf|%12Lf|\n",
-			   results[0][i] / results[4][i],
-			   results[1][i] / results[5][i],
-			   results[2][i] / results[6][i],
-			   results[3][i] / results[7][i]);
-		printf("|---------------|----------|------------|------------|------------|------------|\n");
-	}
+	if (print_to_console)
+		print_meas_results_tables(results, pers);
+	else
+		print_meas_results_tables_to_file(results);
 }
 
 

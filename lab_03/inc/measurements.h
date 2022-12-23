@@ -10,7 +10,7 @@
 
 
 unsigned long long milliseconds_now(void);
-void compare_multiplications(void);
+void compare_multiplications(int print_to_console);
 long double run_test_std(matrix_std_t *matrix, matrix_std_t *vector);
 long double run_test_sparse(matrix_sparse_t *matrix, matrix_sparse_t *vector);
 

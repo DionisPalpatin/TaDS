@@ -56,7 +56,7 @@ error_t menu(matrix_std_t *std_mtr, matrix_sparse_t *sparse_mtr,
 					break;
 
 				case 7:
-					compare_multiplications();
+					compare_multiplications(1);
 					break;
 
 				case 8:
@@ -97,6 +97,10 @@ error_t menu(matrix_std_t *std_mtr, matrix_sparse_t *sparse_mtr,
 
 				case 17:
 					print_menu();
+					break;
+
+				case 100500:
+					compare_multiplications(0);
 					break;
 
 				default:

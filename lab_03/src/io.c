@@ -3,15 +3,7 @@
 
 void greetings(void)
 {
-	printf(COLOR_GREEN "%s" COLOR_RESET "%s",
-		   "\nHello! With this program you can: \n",
-		   " - see the difference in the execution time of different sorting algorithms\n"
-		   " - enter your own poster\n"
-		   "- delete poster by some field\n"
-		   " - sort only the key table, without touching the main one, and see the result\n"
-		   " - display sorted table\n"
-		   " - sort the key table and use them to display the source table in sorted form\n"
-		   " - sort by two different algorithms and display the results\n\n\n");
+	printf(COLOR_GREEN "\nHello!\n" COLOR_RESET);
 }
 
 
@@ -124,13 +116,87 @@ void print_sparse_format(matrix_sparse_t *const matrix)
 }
 
 
+void print_meas_results_tables(long double results[8][9], double *pers)
+{
+	printf("|---------------|----------|---------------------------------------------------|---------------------------------------------------|\n"
+		   "|   Sparsity    |          |            Standard matrix and vector             |             Sparse matrix and vector              |\n"
+		   "|    factor     |   What   |------------|------------|------------|------------|------------|------------|------------|------------|\n"
+		   "|               |          |   10x10    |   50x50    |  100x100   |  150x150   |   10x10    |   50x50    |  100x100   |  150x150   |\n"
+		   "|---------------|----------|------------|------------|------------|------------|------------|------------|------------|------------|\n");
+
+	for (int i = 0; i < 9; ++i)
+	{
+		printf("|               |Time (ms) |%12Lf|%12Lf|%12Lf|%12Lf|%12Lf|%12Lf|%12Lf|%12Lf|\n",
+			   results[0][i], results[1][i], results[2][i], results[3][i], results[4][i], results[5][i], results[6][i], results[7][i]);
+		printf("|%15d|----------|------------|------------|------------|------------|------------|------------|------------|------------|\n", (int)(pers[i] * 100));
+		printf("|               |Memory(b) |%12zu|%12zu|%12zu|%12zu|%12zu|%12zu|%12zu|%12zu|\n",
+			   sizeof(matrix_std_t), sizeof(matrix_std_t), sizeof(matrix_std_t), sizeof(matrix_std_t),
+			   sizeof(matrix_sparse_t), sizeof(matrix_sparse_t), sizeof(matrix_sparse_t), sizeof(matrix_sparse_t));
+		printf("|---------------|----------|------------|------------|------------|------------|------------|------------|------------|------------|\n");
+	}
+
+	printf("\n\n\n");
+	printf("|---------------|--------------|---------------------------------------------------|\n"
+		   "|   Sparsity    |              |            Ratio std matrix to sparse             |\n"
+		   "|    factor     |     What     |------------|------------|------------|------------|\n"
+		   "|               |              |   10x10    |   50x50    |  100x100   |  150x150   |\n"
+		   "|---------------|--------------|------------|------------|------------|------------|\n");
+
+	for (int i = 0; i < 9; ++i)
+	{
+		printf("|               |  Time ratio  |%12Lf|%12Lf|%12Lf|%12Lf|\n",
+			   results[0][i] / results[4][i],
+			   results[1][i] / results[5][i],
+			   results[2][i] / results[6][i],
+			   results[3][i] / results[7][i]);
+		printf("|%15d|--------------|------------|------------|------------|------------|\n", (int)(pers[i] * 100));
+		printf("|               | Memory ratio |%12lf|%12lf|%12lf|%12lf|\n",
+			   (double)sizeof(matrix_std_t) / sizeof(matrix_sparse_t),
+			   (double)sizeof(matrix_std_t) / sizeof(matrix_sparse_t),
+			   (double)sizeof(matrix_std_t) / sizeof(matrix_sparse_t),
+			   (double)sizeof(matrix_std_t) / sizeof(matrix_sparse_t));
+		printf("|---------------|--------------|------------|------------|------------|------------|\n");
+	}
+}
+
+
+void print_meas_results_tables_to_file(long double results[8][9])
+{
+	FILE *out_f = fopen("res_file_format.txt", "w");
+	if (!out_f)
+		return;
+
+	for (int i = 0; i < 9; ++i)
+	{
+		fprintf(out_f, "%12Lf %12Lf %12Lf %12Lf %12Lf %12Lf %12Lf %12Lf\n",
+				results[0][i], results[1][i], results[2][i], results[3][i], results[4][i], results[5][i], results[6][i], results[7][i]);
+		fprintf(out_f, "%12zu %12zu %12zu %12zu %12zu %12zu %12zu %12zu\n",
+			    sizeof(matrix_std_t), sizeof(matrix_std_t), sizeof(matrix_std_t), sizeof(matrix_std_t),
+			    sizeof(matrix_sparse_t), sizeof(matrix_sparse_t), sizeof(matrix_sparse_t), sizeof(matrix_sparse_t));
+	}
+
+	printf("\n\n\n");
+
+	for (int i = 0; i < 9; ++i)
+	{
+		fprintf(out_f, "%12Lf %12Lf %12Lf %12Lf\n",
+				results[0][i] / results[4][i],
+				results[1][i] / results[5][i],
+				results[2][i] / results[6][i],
+				results[3][i] / results[7][i]);
+		fprintf(out_f, "%12lf %12lf %12lf %12lf\n",
+			    (double)sizeof(matrix_std_t) / sizeof(matrix_sparse_t),
+			    (double)sizeof(matrix_std_t) / sizeof(matrix_sparse_t),
+			    (double)sizeof(matrix_std_t) / sizeof(matrix_sparse_t),
+			    (double)sizeof(matrix_std_t) / sizeof(matrix_sparse_t));
+	}
+
+	fclose(out_f);
+}
+
+
+
 void err_message(const char *message)
 {
 	printf("%s%s%s", COLOR_RED, message, COLOR_RESET);
 }
-
-
-//void success_message(void)
-//{
-//	printf(COLOR_GREEN"%s"COLOR_RESET, "\nDONE!\n");
-//}

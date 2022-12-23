@@ -14,7 +14,7 @@ error_t creat_sparse_matrix(FILE *file, matrix_sparse_t *mtr, int total_non_zero
 error_t multiply_sparse(const matrix_sparse_t *matrix, const matrix_sparse_t *vector, matrix_sparse_t *res);
 
 void init_sparse_matrix(matrix_sparse_t *mtr, int rows, int cols);
-void ins_elem(matrix_sparse_t *matrix, int i, int j, int val);
+void ins_elem(matrix_sparse_t *matrix, int position, int row, int col, int value);
 
 
 #endif //LAB_03_MATRIX_SPARSE_H

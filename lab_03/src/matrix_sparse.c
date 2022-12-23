@@ -38,52 +38,46 @@ error_t creat_sparse_matrix(FILE *file, matrix_sparse_t *mtr, int total_non_zero
 		{
 			int row_ind = 0, col_ind = 0;
 			int new_value = 0;
+
 			if (fscanf(file, "%d%d%d", &row_ind, &col_ind, &new_value) != 3 || row_ind >= mtr->rows || col_ind >= mtr->cols)
 			{
 				err_message(STANDARD_ERR_MESS);
 				exit_code = READ_ERR;
 			}
+			else if (new_value == 0)
+			{
+				err_message("You entered zero! Please, enter only non-zero elements.\n");
+				i--;
+			}
 			else
 			{
-				if (new_value == 0)
-				{
-					err_message("You entered zero! Please, enter only non-zero elements.\n");
-					i--;
-					continue;
-				}
-
 				int index_in_arr = mtr->rows_beginnings[row_ind];
-				while (index_in_arr < mtr->rows_beginnings[row_ind + 1] && index_in_arr != col_ind)
-					++index_in_arr;
-				if (index_in_arr == col_ind && mtr->values[index_in_arr])
-				{
-					err_message("You have already inputted element in this cell!.\n");
-					i--;
-					continue;
-				}
-			}
+				int next_row_beg = mtr->rows_beginnings[row_ind + 1];
+				int cur_col = mtr->cols_indexes[index_in_arr];
 
-			ins_elem(mtr, row_ind, col_ind, new_value);
+				while (index_in_arr < next_row_beg && cur_col < col_ind)
+					cur_col = mtr->cols_indexes[++index_in_arr];
+
+				if (mtr->values[index_in_arr] != 0 && next_row_beg > index_in_arr)
+				{
+					err_message("You have already inputted element in this cell!\n");
+					i--;
+				}
+				else
+					ins_elem(mtr, index_in_arr, row_ind, col_ind, new_value);
+			}
 		}
 
 	return exit_code;
 }
 
 
-void ins_elem(matrix_sparse_t *matrix, int row, int col, int value)
+void ins_elem(matrix_sparse_t *matrix, int position, int row, int col, int value)
 {
 	assert(matrix);
 
-	// Ищем позицию, в которую нужно поставить новый элемент
-	int index = 0;
-	for (int i = 0; i < row; ++i)
-		for (int j = matrix->rows_beginnings[i]; j < matrix->rows_beginnings[i + 1]; ++j)
-			++index;
-	for (int j = matrix->rows_beginnings[row]; j < matrix->rows_beginnings[row + 1] && j < col; ++j)
-		++index;
-
 	// Сдвигаем все значения
-	for (int i = matrix->quan; i > index; --i)
+	for (int i = matrix->quan; i > position; --i)
 	{
 		matrix->values[i] = matrix->values[i - 1];
 		matrix->cols_indexes[i] = matrix->cols_indexes[i - 1];
@@ -92,8 +86,8 @@ void ins_elem(matrix_sparse_t *matrix, int row, int col, int value)
 		++(matrix->rows_beginnings[i]);
 
 	// Вставляем элемент
-	matrix->values[index] = value;
-	matrix->cols_indexes[index] = col;
+	matrix->values[position] = value;
+	matrix->cols_indexes[position] = col;
 	++(matrix->quan);
 }
 

@@ -18,7 +18,7 @@
 #define MAX_MATRIX_SIZE        150
 #define MAX_MATRIX_ELEMS       (MAX_MATRIX_SIZE * MAX_MATRIX_SIZE)
 
-#define TOTAL_TEST_RUNS 10000
+#define TOTAL_TEST_RUNS 12500
 
 #define MTR_FILE_FORMAT_LINE "./datas/data/mtr_%d_%d.txt"
 #define VEC_FILE_FORMAT_LINE "./datas/data/vec_%d_%d.txt"
