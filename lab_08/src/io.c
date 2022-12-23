@@ -9,16 +9,7 @@
 
 void greetings(void)
 {
-//	printf(COLOR_GREEN "%s" COLOR_RESET "%s",
-//			"\nHello! With this program you can: \n",
-//			" - see the difference in the execution time of different sorting algorithms\n"
-//			" - enter your own poster\n"
-//			" - delete poster by some field\n"
-//			" - sort only the key table, without touching the main one, and see the result\n"
-//			" - display sorted table\n"
-//			" - sort the key table and use them to display the source table in sorted form\n"
-//			" - sort by two different algorithms and display the results\n\n\n");
-		printf("HELLLOEJFOEJIFOSJFODSJFLDJFL!!!!!\n");
+		printf(COLOR_GREEN"\n\n\nHello!\n\n\n"COLOR_RESET);
 }
 
 
