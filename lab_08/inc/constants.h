@@ -9,12 +9,14 @@
 
 #define EPS 1e-9
 #define INF 10000
+#define TOTAL_TESTS_RUNS 12500
 
 #define TABLE_DELIM_PART_FORMAT "%7s"
 #define TABLE_HEADER_CELL_FORMAT "%7zu"
 #define TABLE_CONT_CELL_FORMAT "%7d"
 
-#define SRC_FILE_NAME "data/example.txt"
+#define SRC_FILE_NAME "data/data/example.txt"
+#define TEST_FILE_NAME_FORMAT "data/test/test_%d.txt"
 
 #define FILE_ERR_MESS "Error: unable to find the file!\n"
 #define STANDARD_ERR_MESS "Read error! Check the data.\n"

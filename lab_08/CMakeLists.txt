@@ -11,10 +11,12 @@ add_executable(
         src/graph.c
         src/menu.c
         src/io.c
+        src/measurements.c
 
         inc/io.h
         inc/menu.h
         inc/constants.h
         inc/graph.h
         inc/data_types.h
+        inc/measurements.h
         )

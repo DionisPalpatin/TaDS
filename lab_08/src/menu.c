@@ -4,6 +4,7 @@
 #include <io.h>
 #include <data_types.h>
 #include <constants.h>
+#include <measurements.h>
 
 
 errors_t menu(road_graph_t *roads, road_graph_t *res_dists)
@@ -43,6 +44,14 @@ errors_t menu(road_graph_t *roads, road_graph_t *res_dists)
 
 				case 6:
 					print_menu();
+					break;
+
+				case 7:
+					compare_realizations(1);
+					break;
+
+				case 100500:
+					compare_realizations(0);
 					break;
 
 				default:
