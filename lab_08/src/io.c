@@ -19,12 +19,12 @@ void print_menu(void)
 	printf(COLOR_BLUE"%s" COLOR_RESET "%s",
 			"\n\nMENU (select one item, enter a number):\n\n",
 			"1 - load graph from file;\n"
-			"2 - load graph manually;\n"
-			"3 - print graph with Graphviz;\n"
-			"4 - find the path through all roads without repetition;\n"
-			"5 - print found way;\n"
+//			"2 - load graph manually;\n"
+			"2 - print graph with Graphviz;\n"
+			"3 - find the matrix of shortest ways;\n"
+			"4 - print found way;\n"
+			"5 - compare matrix realization and list;\n"
 			"6 - print menu;\n"
-			"7 - compare matrix realization and list;\n"
 			"0 - program exit.\n"
 	);
 }
@@ -32,7 +32,7 @@ void print_menu(void)
 
 void input_prompt(void)
 {
-	printf(COLOR_BLUE"%s"COLOR_RESET"%s","\n\nEnter 17 to display the menu", "\nEnter your choice: ");
+	printf(COLOR_BLUE"%s"COLOR_RESET"%s","\n\nEnter 7 to display the menu", "\nEnter your choice: ");
 }
 
 

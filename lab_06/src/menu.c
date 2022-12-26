@@ -1,14 +1,19 @@
+//
+// Created by dionis on 25.12.22.
+//
+#include <assert.h>
 #include <stdio.h>
 
-#include <graph.h>
-#include <io.h>
+#include <menu.h>
 #include <data_types.h>
 #include <constants.h>
-#include <measurements.h>
+#include <io.h>
+#include <tree.h>
 
 
-errors_t menu(road_graph_t *roads, road_graph_t *res_dists)
+errors_t menu(tree_t *tree)
 {
+	assert(tree);
 	print_menu();
 	input_prompt();
 
@@ -24,27 +29,30 @@ errors_t menu(road_graph_t *roads, road_graph_t *res_dists)
 			switch (menu_item)
 			{
 				case 1:
-					exit_code = load_graph_from_file(SRC_FILE_NAME, roads);
+					exit_code = read_tree_from_file(SRC_FILE_NAME, tree);
 					break;
 
 				case 2:
-					print_road_graph(roads);
 					break;
 
 				case 3:
-					exit_code = floyd_warshall(roads, res_dists);
+					print_road_graph(roads);
 					break;
 
 				case 4:
-					print_matrix(res_dists->roads_matrix, res_dists->total_cities, res_dists->total_cities);
+					exit_code = floyd_warshall(roads, res_dists);
 					break;
 
 				case 5:
-					compare_realizations(1);
+					print_matrix(res_dists->roads_matrix, res_dists->total_cities, res_dists->total_cities);
 					break;
 
 				case 6:
 					print_menu();
+					break;
+
+				case 7:
+					compare_realizations(1);
 					break;
 
 				case 100500:
