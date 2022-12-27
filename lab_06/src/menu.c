@@ -11,7 +11,7 @@
 #include <tree.h>
 
 
-errors_t menu(tree_t *tree)
+errors_t menu(tree_t *tree, size_t *depths)
 {
 	assert(tree);
 	print_menu();
@@ -33,30 +33,32 @@ errors_t menu(tree_t *tree)
 					break;
 
 				case 2:
+					exit_code = add_node(tree);
 					break;
 
 				case 3:
-					print_road_graph(roads);
+//					print_road_graph(roads);
 					break;
 
 				case 4:
-					exit_code = floyd_warshall(roads, res_dists);
+					explore_depths(tree);
 					break;
 
 				case 5:
-					print_matrix(res_dists->roads_matrix, res_dists->total_cities, res_dists->total_cities);
+
 					break;
 
 				case 6:
-					print_menu();
+
 					break;
 
 				case 7:
-					compare_realizations(1);
+					print_menu();
 					break;
 
+				// Menu option for otchet only
 				case 100500:
-					compare_realizations(0);
+
 					break;
 
 				default:

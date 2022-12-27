@@ -24,5 +24,4 @@
 #define MEM_ALLOC_ERR_MESS "Error: some memory error take place, rerun the program.\n"
 #define TREE_ERR_MESS "Error: tree has not been created yet!\n"
 
-
 #endif

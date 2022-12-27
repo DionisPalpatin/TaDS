@@ -32,3 +32,9 @@ void input_prompt(void)
 {
 	printf(COLOR_BLUE"%s"COLOR_RESET"%s","\n\nEnter 17 to display the menu", "\nEnter your choice: ");
 }
+
+
+void print_tree(tree_t *tree)
+{
+
+}

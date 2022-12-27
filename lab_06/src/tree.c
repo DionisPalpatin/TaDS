@@ -39,15 +39,17 @@ node_t* create_node(int node_data)
 {
     node_t *node = malloc(sizeof(node_t));
 
-    if (node)
+	if (node)
     {
-        node->data = node_data;
+		node->data = node_data;
         node->depth = 0;
         node->right = NULL;
         node->left = NULL;
     }
 	else
+	{
 		err_message(MEM_ALLOC_ERR_MESS);
+	}
 
     return node;    
 }
@@ -174,6 +176,33 @@ void init_tree(tree_t *tree, size_t total_nums)
 }
 
 
+errors_t add_node(tree_t *tree)
+{
+	assert(tree);
+
+	errors_t exit_code = OK;
+	int node_value = 0;
+
+	printf("Input node value: ");
+	fflush(stdin);
+	setbuf(stdin, NULL);
+
+	if (scanf("%d", &node_value) != 1)
+	{
+		exit_code = READ_ERR;
+		err_message(STANDARD_ERR_MESS);
+	}
+	else
+	{
+		node_t *new_node = create_node(node_value);
+		if (new_node)
+			insert_node(tree->head, new_node, 0);
+	}
+
+	return exit_code;
+}
+
+
 void sort_tree(tree_t *tree, size_t *sorted_arr, size_t *cur_len)
 {
 	assert(tree && sorted_arr && cur_len);
@@ -199,7 +228,7 @@ void sort_branch(node_t *cur_node, size_t *sorted_arr, size_t *cur_len)
 }
 
 
-void explore_depths(node_t *cur_node, size_t *depths)
+void calculate_nodes(node_t *cur_node, size_t *depths)
 {
 	assert(cur_node && depths);
 
@@ -209,4 +238,19 @@ void explore_depths(node_t *cur_node, size_t *depths)
 		explore_depths(cur_node, depths);
 	if (cur_node->right)
 		explore_depths(cur_node, depths);
+}
+
+
+void explore_depths(tree_t *tree)
+{
+	assert(tree);
+
+	size_t depths[tree->total_elems];
+	memset(depths, 0, sizeof(size_t) * tree->total_elems);
+
+	calculate_nodes(tree->head, depths);
+
+	printf("Results:\n");
+	for (size_t i = 0; i < tree->total_elems && depths[i] != -1; ++i)
+		printf("\tLevel %zu: %zu\n", i, depths[i]);
 }
