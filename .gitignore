@@ -1,6 +1,7 @@
 *idea*
 *cmake*
 *Cmake*
+*CMakeLists.txt
 
-*/*.exe
+*.exe
 *.o
