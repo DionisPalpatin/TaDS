@@ -28,22 +28,26 @@ errors_t menu(road_graph_t *roads, road_graph_t *res_dists)
 					break;
 
 				case 2:
-					print_road_graph(roads);
+					load_graph_manually(roads);
 					break;
 
 				case 3:
-					exit_code = floyd_warshall(roads, res_dists);
+					print_road_graph(roads);
 					break;
 
 				case 4:
-					print_matrix(res_dists->roads_matrix, res_dists->total_cities, res_dists->total_cities);
+					exit_code = floyd_warshall(roads, res_dists);
 					break;
 
 				case 5:
-					compare_realizations(1);
+					print_matrix(res_dists->roads_matrix, res_dists->total_cities, res_dists->total_cities);
 					break;
 
 				case 6:
+					compare_realizations(1);
+					break;
+
+				case 7:
 					print_menu();
 					break;
 
@@ -57,8 +61,7 @@ errors_t menu(road_graph_t *roads, road_graph_t *res_dists)
 			}
 
 		input_prompt();
-		fflush(stdin);
-		setbuf(stdin, NULL);
+		free_stdin();
 		read_status = scanf("%d", &menu_item);
 	}
 

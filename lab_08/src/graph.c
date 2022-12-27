@@ -26,6 +26,9 @@ errors_t init_road_matrix(road_graph_t *roads, size_t total_cities)
 
 	errors_t exit_code = OK;
 
+	if (roads->roads_matrix)
+		free_road_matrix(roads);
+
 	roads->roads_matrix = calloc(total_cities, sizeof(int *));
 	if (!roads->roads_matrix)
 	{
@@ -81,10 +84,71 @@ errors_t load_graph_from_file(const char *file_name, road_graph_t *roads)
 	if (exit_code == OK)
 		exit_code = read_road_matrix(src_f, roads);
 
-	if (src_f)
+	if (src_f && src_f != stdin)
 		fclose(src_f);
 
 	return exit_code;
+}
+
+
+void load_graph_manually(road_graph_t *roads)
+{
+	assert(roads);
+
+	printf("Graph must be inputted in the next format:\n"
+		   "1) input quantity of cities (ineger number greater then zero)\n"
+		   "2) input graph in format 'first_city_num sec_city_num road_len'.\n\n\n"
+		   "Input quantity of cities: ");
+
+	size_t total_roads = 0;
+	free_stdin();
+	while (scanf("%zu", &total_roads) != 1)
+	{
+		err_message(STANDARD_ERR_MESS);
+		free_stdin();
+	}
+	free_stdin();
+
+	if (init_road_matrix(roads, total_roads) != OK)
+		return;
+
+	printf("When your input will be finished, type 'end'.\nInput graph:\n");
+	char *string = NULL;
+	size_t len = 0;
+	while (getline(&string, &len, stdin) > 0 && strcmp("end\n", string) != 0)
+	{
+		char *end_ptr = NULL;
+		size_t c1, c2;
+		int road;
+
+		char *new_str_c = strchr(string, '\n');
+		if (new_str_c)
+			*new_str_c = '\0';
+
+		len = strlen(string);
+
+		if (len == 0)
+		{
+			err_message(STANDARD_ERR_MESS);
+			free_stdin();
+		}
+		else
+		{
+			c1 = strtoul(string, &end_ptr, 10);
+			c2 = strtoul(end_ptr, &end_ptr, 10);
+			road = (int) strtol(end_ptr, &end_ptr, 10);
+
+			if (*end_ptr != '\0' || road == 0 || road == 10000 || c1 < 1 || c1 > total_roads || c2 < 1 || c2 > total_roads || c1 == c2)
+			{
+				err_message(STANDARD_ERR_MESS);
+				free_stdin();
+			}
+			else
+				roads->roads_matrix[c1 - 1][c2 - 1] = road;
+		}
+	}
+
+	free_stdin();
 }
 
 
@@ -95,12 +159,16 @@ errors_t read_road_matrix(FILE *src, road_graph_t *roads)
 	errors_t exit_code = OK;
 
 	for (size_t i = 0; i < roads->total_cities && exit_code == OK; ++i)
+	{
 		for (size_t j = 0; j < roads->total_cities && exit_code == OK; ++j)
+		{
 			if (fscanf(src, "%d", &roads->roads_matrix[i][j]) != 1)
 			{
 				err_message(STANDARD_ERR_MESS);
 				exit_code = READ_ERR;
 			}
+		}
+	}
 
 	return exit_code;
 }

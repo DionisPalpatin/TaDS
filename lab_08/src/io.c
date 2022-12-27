@@ -19,12 +19,12 @@ void print_menu(void)
 	printf(COLOR_BLUE"%s" COLOR_RESET "%s",
 			"\n\nMENU (select one item, enter a number):\n\n",
 			"1 - load graph from file;\n"
-//			"2 - load graph manually;\n"
-			"2 - print graph with Graphviz;\n"
-			"3 - find the matrix of shortest ways;\n"
-			"4 - print found way;\n"
-			"5 - compare matrix realization and list;\n"
-			"6 - print menu;\n"
+			"2 - load graph manually;\n"
+			"3 - print graph with Graphviz;\n"
+			"4 - find the matrix of shortest ways;\n"
+			"5 - print found way;\n"
+			"6 - compare matrix realization and list;\n"
+			"7 - print menu;\n"
 			"0 - program exit.\n"
 	);
 }
@@ -170,4 +170,11 @@ void print_meas_results_tables_to_file(long double results[10][2], size_t sizes[
 void err_message(const char *message)
 {
 	printf("%s%s%s", COLOR_RED, message, COLOR_RESET);
+}
+
+
+void free_stdin(void)
+{
+	int c;
+	while ((c = getchar()) != '\n');
 }

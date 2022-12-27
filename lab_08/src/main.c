@@ -6,6 +6,7 @@
 
 int main()
 {
+	setbuf(stdin, NULL);
 	errors_t exit_code;
 
 	road_graph_t roads = {.total_cities = 0, .roads_matrix = NULL};

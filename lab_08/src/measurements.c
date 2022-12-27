@@ -50,6 +50,9 @@ void compare_realizations(int print_to_console)
 		print_meas_results_tables(results, sizes);
 	else
 		print_meas_results_tables_to_file(results, sizes);
+
+	free_road_matrix(&graph_matrix);
+	free_road_list(&graph_list);
 }
 
 

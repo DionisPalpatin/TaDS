@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <assert.h>
 
 #include <io.h>
 #include <tree.h>
@@ -36,5 +38,47 @@ void input_prompt(void)
 
 void print_tree(tree_t *tree)
 {
+	assert(tree);
+	if (tree->total_elems == 0)
+	{
+		err_message("Error: graph has no tops, build the graph for the first.\n");
+		return;
+	}
 
+	FILE *f_out = fopen("res.dot", "w");
+	if (!f_out)
+	{
+		err_message(FILE_ERR_MESS);
+		return;
+	}
+
+	fprintf(f_out, "digraph TREE_GRAPH {\n");
+
+	node_t *prev_node = tree->head;
+	if (prev_node->left)
+		print_branch(f_out, prev_node->left, prev_node);
+	if (prev_node->right)
+		print_branch(f_out, prev_node->right, prev_node);
+
+	if (!prev_node->right && !prev_node->left)
+		fprintf(f_out)
+
+	fprintf(f_out, "}\n");
+
+	fclose(f_out);
+
+	system("dot -Tpng res.dot -o res.png");
+	system("open res.png");
+}
+
+
+void print_branch(FILE *out, node_t *cur_node, node_t *prev_node)
+{
+	assert(cur_node && prev_node && out);
+
+	if (cur_node->left)
+		print_branch(out, cur_node->left, cur_node);
+	if (cur_node->right)
+		print_branch(out, cur_node->right, cur_node);
+	fprintf(out, "%d -> %d;\n", prev_node->data, cur_node->data);
 }

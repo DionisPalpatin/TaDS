@@ -18,5 +18,7 @@ void print_meas_results_tables_to_file(long double results[10][2], size_t sizes[
 
 void err_message(const char *message);
 
+void free_stdin(void);
+
 
 #endif

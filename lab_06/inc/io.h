@@ -9,6 +9,7 @@ void print_menu(void);
 void input_prompt(void);
 
 void print_tree(tree_t *tree);
+void print_branch(FILE *out, node_t *cur_node, node_t *prev_node);
 
 void print_meas_results_tables(long double results[8][9], double *pers);
 void print_meas_results_tables_to_file(long double results[8][9]);
